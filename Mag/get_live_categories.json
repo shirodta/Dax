@@ -1,0 +1,83 @@
+[
+  {
+    "category_id": 200,
+    "category_name": "Mas vistos",
+    "parent_id": 0,
+    "type": "top"
+  },
+  {
+    "category_id": 11,
+    "category_name": "Nacionales",
+    "parent_id": 0
+  },
+  {
+    "category_id": 32,
+    "category_name": "HD",
+    "parent_id": 0
+  },
+  {
+    "category_id": 10,
+    "category_name": "Cine 24/7",
+    "parent_id": 0
+  },
+  {
+    "category_id": 9,
+    "category_name": "24/7",
+    "parent_id": 0
+  },
+  {
+    "category_id": 1,
+    "category_name": "Entretenimiento",
+    "parent_id": 0
+  },
+  {
+    "category_id": 4,
+    "category_name": "Deportes",
+    "parent_id": 0
+  },
+  {
+    "category_id": 3,
+    "category_name": "Peliculas",
+    "parent_id": 0
+  },
+  {
+    "category_id": 2,
+    "category_name": "Infantiles",
+    "parent_id": 0
+  },
+  {
+    "category_id": 7,
+    "category_name": "Musica",
+    "parent_id": 0
+  },
+  {
+    "category_id": 5,
+    "category_name": "Cultura",
+    "parent_id": 0
+  },
+  {
+    "category_id": 6,
+    "category_name": "Noticias",
+    "parent_id": 0
+  },
+  {
+    "category_id": 28,
+    "category_name": "España",
+    "parent_id": 0
+  },
+  {
+    "category_id": 29,
+    "category_name": "Religion",
+    "parent_id": 0
+  },
+  {
+    "category_id": 31,
+    "category_name": "USA",
+    "parent_id": 0
+  },
+  {
+    "category_id": 23,
+    "category_name": "Ecuador",
+    "parent_id": 0
+  }
+]
