@@ -1,0 +1,58 @@
+{
+"cards": [
+{
+"label": "TV EN VIVO",
+"href": "go:channel",
+"image": "https://i.imgur.com/pYTreyZ.png",
+"show": true
+},
+{
+"label": "EVENTOS DAX",
+"href": "go:daxeventos",
+"image": "https://i.imgur.com/zZACFZn.png",
+"show": true
+},
+{
+"label": "EVENTOS DEPORTIVOS 1",
+"href": "go:eventos1",
+"image": "https://i.imgur.com/74aek1R.png",
+"show": true
+},
+{
+"label": "EVENTOS DEPORTIVOS 2",
+"href": "go:eventos2",
+"image": "https://i.imgur.com/74aek1R.png",
+"show": true
+},
+{
+"label": "ANIMES",
+"href": "go:animes",
+"image": "",
+"show": false
+},
+{
+"label": "PELÍCULAS",
+"href": "go:movies",
+"image": "https://i.imgur.com/cpBLKTi.png",
+"show": false
+},
+{
+"label": "SERIES",
+"href": "go:series",
+"image": "https://i.imgur.com/guV3lzj.png",
+"show": false
+},
+{
+"label": "TABLA DE POSICIONES",
+"href": "go:movies",
+"image": "https://i.imgur.com/wYLvVcM.png",
+"show": false
+},
+{
+"label": "AVISO LEGAL",
+"href": "go:movies",
+"image": "https://i.imgur.com/97cBY14.png",
+"show": false
+}
+]
+}
