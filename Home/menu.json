@@ -1,0 +1,34 @@
+{
+"menu": [
+{
+"titulo": "Inicio",
+"icono": "icon_home",
+"actividad": "HomeActivity",
+"visible": true
+},
+{
+"titulo": "TV",
+"icono": "icon_tvhd",
+"actividad": "TvhdActivity",
+"visible": true
+},
+{
+"titulo": "Eventos Dax",
+"icono": "icon_soccer",
+"actividad": "DaxeventosActivity",
+"visible": true
+},
+{
+"titulo": "Eventos Deportivos 1",
+"icono": "icon_agenda_sports",
+"actividad": "EventosActivity",
+"visible": false
+},
+{
+"titulo": "Eventos Deportivos 2",
+"icono": "icon_agenda_sports",
+"actividad": "Eventos2Activity",
+"visible": false
+}
+]
+}
