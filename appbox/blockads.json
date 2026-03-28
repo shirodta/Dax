@@ -1,13 +1,16 @@
 {
-  "urls": [
-    "acscdn.com",
-    "ads.tiogolhd.com",
-    "aclib.js"
+  "blockedScripts": [
+    "https://acscdn.com/script/aclib.js",
+    "https://ads.tiogolhd.com/aclib.js",
+    "//jnbhi.com/tag.min.js"
   ],
-  "zones": [
-    "9169790",
-    "10699442",
+  "blockedZoneIds": [
+    "8927326",
     "10675638",
-    "8927326"
+    "10699442",
+    "9169790"
+  ],
+  "blockedDataZones": [
+    "7943094"
   ]
 }
