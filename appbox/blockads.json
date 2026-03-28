@@ -1,16 +1,18 @@
 {
-  "blockedScripts": [
-    "https://acscdn.com/script/aclib.js",
-    "https://ads.tiogolhd.com/aclib.js",
-    "//jnbhi.com/tag.min.js"
-  ],
-  "blockedZoneIds": [
-    "8927326",
-    "10675638",
-    "10699442",
-    "9169790"
-  ],
-  "blockedDataZones": [
-    "7943094"
-  ]
+"blockedScripts": [
+"https://acscdn.com/script/aclib.js",
+"https://ads.tiogolhd.com/aclib.js",
+"//jnbhi.com/tag.min.js",
+"https://greatdexchange.com/jump/next.php?r=10694214"
+],
+"blockedZoneIds": [
+"8927326",
+"10675638",
+"10699442",
+"9169790",
+"10559114"
+],
+"blockedDataZones": [
+"7943094"
+]
 }
