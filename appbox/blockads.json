@@ -1,18 +1,53 @@
 {
-"blockedScripts": [
-"https://acscdn.com/script/aclib.js",
-"https://ads.tiogolhd.com/aclib.js",
-"//jnbhi.com/tag.min.js",
-"https://greatdexchange.com/jump/next.php?r=10694214"
-],
-"blockedZoneIds": [
-"8927326",
-"10675638",
-"10699442",
-"9169790",
-"10559114"
-],
-"blockedDataZones": [
-"7943094"
-]
+  "blockedScripts": [
+    "acscdn.com",
+    "tiogolhd.com",
+    "jnbhi.com",
+
+    "doubleclick.net",
+    "googlesyndication.com",
+    "googleadservices.com",
+
+    "popads.net",
+    "propellerads.com",
+    "onclickads.net",
+    "exoclick.com",
+
+    "adsterra.com",
+    "hilltopads.net",
+    "clickadu.com",
+
+    "taboola.com",
+    "outbrain.com",
+    "mgid.com",
+
+    "tracking",
+    "analytics",
+    "banner",
+    "popup",
+    "popunder",
+    "adsystem",
+    "adserver"
+  ],
+
+  "blockedRegex": [
+    ".*ads.*",
+    ".*popup.*",
+    ".*popunder.*",
+    ".*banner.*",
+    ".*redirect.*",
+    ".*track.*",
+    ".*click.*"
+  ],
+
+  "blockedZoneIds": [
+    "8927326",
+    "10675638",
+    "10699442",
+    "9169790"
+  ],
+
+  "blockedDataZones": [
+    "7943094"
+  ]
 }
