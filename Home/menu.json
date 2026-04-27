@@ -13,6 +13,12 @@
 "visible": true
 },
 {
+"titulo": "Prueba",
+"icono": "icon_tvhd",
+"actividad": "PruebaActivity",
+"visible": true
+}
+{
 "titulo": "Eventos Dax",
 "icono": "icon_soccer",
 "actividad": "DaxeventosActivity",
