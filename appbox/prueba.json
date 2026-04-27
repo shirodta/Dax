@@ -1,20 +1,122 @@
 [
 {
-"title": "ESPN",
-"logo": "https://www.tvporinternet2.com/imge/espn.webp",
-"url": "https://la14hd.com/vivo/canales.php?stream=espn",
-"category": "LATINOAMERICA"
-},
-{
-"title": "Disney+ 1",
-"logo": "https://cloudfront-us-east-1.images.arcpublishing.com/eluniverso/B33DYSWWX5GLZBOIBE7VA4NZXU.jpg",
+"title": "Eventos 1",
+"logo": "https://cdn.jsdelivr.net/gh/shirodta/Dax/Logo-Paises/Eventos/D1.png",
 "url": "https://la14hd.com/vivo/canales.php?stream=disney1",
 "category": "Eventos"
 },
 {
-"title": "LIGA 1 MAX",
-"logo": "https://www.tvporinternet2.com/imge/liga1max.webp",
-"url": "https://www.tvporinternet2.com/liga-1-max-en-vivo-por-internet.html",
-"category": "Perú"
+"title": "Eventos 2",
+"logo": "https://cdn.jsdelivr.net/gh/shirodta/Dax/Logo-Paises/Eventos/D2.png",
+"url": "https://la14hd.com/vivo/canales.php?stream=disney2",
+"category": "Eventos"
+},
+{
+"title": "Eventos 3",
+"logo": "https://cdn.jsdelivr.net/gh/shirodta/Dax/Logo-Paises/Eventos/D3.png",
+"url": "https://la14hd.com/vivo/canales.php?stream=disney3",
+"category": "Eventos"
+},
+{
+"title": "Eventos 4",
+"logo": "https://cdn.jsdelivr.net/gh/shirodta/Dax/Logo-Paises/Eventos/D4.png",
+"url": "https://la14hd.com/vivo/canales.php?stream=disney4",
+"category": "Eventos"
+},
+{
+"title": "Eventos 5",
+"logo": "https://cdn.jsdelivr.net/gh/shirodta/Dax/Logo-Paises/Eventos/D5.png",
+"url": "https://la14hd.com/vivo/canales.php?stream=disney5",
+"category": "Eventos"
+},
+{
+"title": "Eventos 6",
+"logo": "https://cdn.jsdelivr.net/gh/shirodta/Dax/Logo-Paises/Eventos/D6.png",
+"url": "https://la14hd.com/vivo/canales.php?stream=disney6",
+"category": "Eventos"
+},
+{
+"title": "Eventos 7",
+"logo": "https://cdn.jsdelivr.net/gh/shirodta/Dax/Logo-Paises/Eventos/D7.png",
+"url": "https://la14hd.com/vivo/canales.php?stream=disney7",
+"category": "Eventos"
+},
+{
+"title": "Eventos 8",
+"logo": "https://cdn.jsdelivr.net/gh/shirodta/Dax/Logo-Paises/Eventos/D8.png",
+"url": "https://la14hd.com/vivo/canales.php?stream=disney8",
+"category": "Eventos"
+},
+{
+"title": "Eventos 9",
+"logo": "https://cdn.jsdelivr.net/gh/shirodta/Dax/Logo-Paises/Eventos/D9.png",
+"url": "https://la14hd.com/vivo/canales.php?stream=disney9",
+"category": "Eventos"
+},
+{
+"title": "Eventos 10",
+"logo": "https://cdn.jsdelivr.net/gh/shirodta/Dax/Logo-Paises/Eventos/D10.png",
+"url": "https://la14hd.com/vivo/canales.php?stream=disney10",
+"category": "Eventos"
+},
+{
+"title": "Eventos 11",
+"logo": "https://cdn.jsdelivr.net/gh/shirodta/Dax/Logo-Paises/Eventos/D11.png",
+"url": "https://la14hd.com/vivo/canales.php?stream=disney11",
+"category": "Eventos"
+},
+{
+"title": "Eventos 12",
+"logo": "https://cdn.jsdelivr.net/gh/shirodta/Dax/Logo-Paises/Eventos/D12.png",
+"url": "https://la14hd.com/vivo/canales.php?stream=disney12",
+"category": "Eventos"
+},
+{
+"title": "Eventos 13",
+"logo": "https://cdn.jsdelivr.net/gh/shirodta/Dax/Logo-Paises/Eventos/D3.png",
+"url": "https://la14hd.com/vivo/canales.php?stream=disney13",
+"category": "Eventos"
+},
+{
+"title": "Eventos 14",
+"logo": "https://cdn.jsdelivr.net/gh/shirodta/Dax/Logo-Paises/Eventos/D14.png",
+"url": "https://la14hd.com/vivo/canales.php?stream=disney14",
+"category": "Eventos"
+},
+{
+"title": "Eventos 15",
+"logo": "https://cdn.jsdelivr.net/gh/shirodta/Dax/Logo-Paises/Eventos/D15.png",
+"url": "https://la14hd.com/vivo/canales.php?stream=disney15",
+"category": "Eventos"
+},
+{
+"title": "Eventos 16",
+"logo": "https://cdn.jsdelivr.net/gh/shirodta/Dax/Logo-Paises/Eventos/D16.png",
+"url": "https://la14hd.com/vivo/canales.php?stream=disney16",
+"category": "Eventos"
+},
+{
+"title": "Eventos 17",
+"logo": "https://cdn.jsdelivr.net/gh/shirodta/Dax/Logo-Paises/Eventos/D17.png",
+"url": "https://la14hd.com/vivo/canales.php?stream=disney17",
+"category": "Eventos"
+},
+{
+"title": "Eventos 18",
+"logo": "https://cdn.jsdelivr.net/gh/shirodta/Dax/Logo-Paises/Eventos/D18.png",
+"url": "https://la14hd.com/vivo/canales.php?stream=disney18",
+"category": "Eventos"
+},
+{
+"title": "Eventos 19",
+"logo": "https://cdn.jsdelivr.net/gh/shirodta/Dax/Logo-Paises/Eventos/D19.png",
+"url": "https://la14hd.com/vivo/canales.php?stream=disney19",
+"category": "Eventos"
+},
+{
+"title": "Eventos 20",
+"logo": "https://cdn.jsdelivr.net/gh/shirodta/Dax/Logo-Paises/Eventos/D20.png",
+"url": "https://la14hd.com/vivo/canales.php?stream=disney20",
+"category": "Eventos"
 }
 ]
