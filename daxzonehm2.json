@@ -15,15 +15,15 @@
 "url": "#",
 "icon": "icon_trophy",
 "actividad": "DaxexoActivity",
-"visible": true
+"visible": false
 },
 {
-"img": "https://cdn.conmebol.com/wp-content/uploads/2026/02/Sudamericana-portada-768x432.png",
+"img": "https://img.somosxbox.com/somosxbox/2023/04/23023457/LaLiga.jpg",
 "title": "Copa Sudamericana",
 "url": "#",
 "icon": "icon_broadcast_tower",
 "actividad": "DaxexostreamActivity",
-"visible": false
+"visible": true
 }
 ],
 "cards": [
@@ -49,7 +49,7 @@
 "label": "EVENTOS DEPORTIVOS 1",
 "icon": "icon_agenda_sports",
 "actividad": "Eventos1Activity",
-"visible": false
+"visible": true
 },
 {
 "label": "EVENTOS DEPORTIVOS 2",
@@ -61,13 +61,13 @@
 "label": "PELÍCULAS",
 "icon": "icon_film",
 "actividad": "MoviesActivity",
-"visible": false
+"visible": true
 },
 {
 "label": "SERIES",
 "icon": "icon_popcorn",
 "actividad": "SeriesActivity",
-"visible": false
+"visible": true
 },
 {
 "label": "TABLA DE POSICIONES",
