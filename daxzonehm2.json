@@ -1,0 +1,85 @@
+{
+"carouselShow": true,
+"carousel": [
+{
+"img": "https://www.ole.com.ar/images/2025/02/11/xLc-WmGCx_1290x760__1.jpg",
+"title": "Liga Pro Ecuador",
+"url": "#",
+"icon": "icon_tvhd",
+"actividad": "DaxexoActivity",
+"visible": true
+},
+{
+"img": "https://cdn.conmebol.com/wp-content/uploads/2024/11/Logo-CONMEBOL-Libertadores-Full-Color-Fondo-Oscuros-768x432.jpg",
+"title": "Copa Libertadores",
+"url": "#",
+"icon": "icon_trophy",
+"actividad": "DaxexoActivity",
+"visible": true
+},
+{
+"img": "https://cdn.conmebol.com/wp-content/uploads/2026/02/Sudamericana-portada-768x432.png",
+"title": "Copa Sudamericana",
+"url": "#",
+"icon": "icon_broadcast_tower",
+"actividad": "DaxexostreamActivity",
+"visible": false
+}
+],
+"cards": [
+{
+"label": "TV EN VIVO",
+"icon": "icon_tvhd",
+"actividad": "TvhdActivity",
+"visible": true
+},
+{
+"label": "CANALES DEPORTIVOS",
+"icon": "icon_tvhd",
+"actividad": "TvhdActivity",
+"visible": true
+},
+{
+"label": "EVENTOS DAX",
+"icon": "icon_soccer",
+"actividad": "LarojaActivity",
+"visible": true
+},
+{
+"label": "EVENTOS DEPORTIVOS 1",
+"icon": "icon_agenda_sports",
+"actividad": "Eventos1Activity",
+"visible": false
+},
+{
+"label": "EVENTOS DEPORTIVOS 2",
+"icon": "icon_agenda_sports",
+"actividad": "Eventos2Activity",
+"visible": false
+},
+{
+"label": "PELÍCULAS",
+"icon": "icon_film",
+"actividad": "MoviesActivity",
+"visible": false
+},
+{
+"label": "SERIES",
+"icon": "icon_popcorn",
+"actividad": "SeriesActivity",
+"visible": false
+},
+{
+"label": "TABLA DE POSICIONES",
+"icon": "icon_standings",
+"actividad": "TablaposiActivity",
+"visible": true
+},
+{
+"label": "AVISO LEGAL",
+"icon": "icon_gavel",
+"actividad": "LegalActivity",
+"visible": true
+}
+]
+}
