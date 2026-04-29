@@ -1,0 +1,73 @@
+{
+  "carouselShow": true,
+  "carousel": [
+    {
+      "img": "https://www.ole.com.ar/images/2025/02/11/xLc-WmGCx_1290x760__1.jpg",
+      "title": "Liga Pro Ecuador",
+      "url": "#",
+      "badge": "fa-solid fa-futbol",
+      "strong": "Ecuador",
+      "badgeVisible": true
+    },
+    {
+      "img": "https://entreladrillos.com/wp-content/uploads/2021/03/837164da70752c40cb6a975b4ac7a788.jpg",
+      "title": "UEFA Champions League",
+      "url": "#",
+      "badge": "fa-solid fa-trophy",
+      "strong": "Europa",
+      "badgeVisible": true
+    },
+    {
+      "img": "https://www.record.com.mx/sites/default/files/articulos/2024/09/16/record3141.jpg",
+      "title": "Copa Libertadores",
+      "url": "#",
+      "badge": "fa-solid fa-broadcast-tower",
+      "strong": "En Vivo",
+      "badgeVisible": true
+    }
+  ],
+  "cards": [
+    {
+      "label": "TV",
+      "icon": "fal fa-tv",
+      "href": "#",
+      "type": "tv",
+      "show": true
+    },
+    {
+      "label": "EVENTOS EN VIVO",
+      "icon": "fa-thin fa-futbol",
+      "href": "#",
+      "type": "live",
+      "show": true
+    },
+    {
+      "label": "TABLA DE POSICIONES",
+      "icon": "fal fa-list",
+      "href": "#",
+      "type": "res",
+      "show": true
+    },
+{
+      "label": "PELICULAS",
+      "icon": "fa-thin fa-film",
+      "href": "#",
+      "type": "movies",
+      "show": true
+    },
+{
+      "label": "SERIES",
+      "icon": "fa-thin fa-popcorn",
+      "href": "#",
+      "type": "series",
+      "show": true
+    },
+    {
+      "label": "AVISO LEGAL",
+      "icon": "fa-solid fa-gavel",
+      "href": "#",
+      "type": "legal",
+      "show": true
+    }
+  ]
+}
