@@ -61,13 +61,13 @@
 "label": "PELÍCULAS",
 "icon": "icon_film",
 "actividad": "MoviesActivity",
-"visible": true
+"visible": false
 },
 {
 "label": "SERIES",
 "icon": "icon_series",
 "actividad": "SeriesActivity",
-"visible": true
+"visible": false
 },
 {
 "label": "TABLA DE POSICIONES",
