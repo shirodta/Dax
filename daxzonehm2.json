@@ -71,7 +71,7 @@
 },
 {
 "label": "TABLA DE POSICIONES",
-"icon": "icon_standings",
+"icon": "icon_ranking_star",
 "actividad": "TablaposiActivity",
 "visible": true
 },
