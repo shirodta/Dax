@@ -61,7 +61,7 @@
 "label": "PELÍCULAS",
 "icon": "icon_film",
 "actividad": "MoviesActivity",
-"visible": false
+"visible": true
 },
 {
 "label": "SERIES",
