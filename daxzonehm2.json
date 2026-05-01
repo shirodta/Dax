@@ -67,7 +67,7 @@
 "label": "SERIES",
 "icon": "icon_series",
 "actividad": "SeriesActivity",
-"visible": false
+"visible": true
 },
 {
 "label": "TABLA DE POSICIONES",
