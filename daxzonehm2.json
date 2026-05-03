@@ -48,7 +48,7 @@
 {
 "label": "EVENTOS DEPORTIVOS 1",
 "icon": "icon_agenda_sports",
-"actividad": "Eventos1Activity",
+"actividad": "EventosActivity",
 "visible": true
 },
 {
