@@ -1,58 +1,85 @@
 {
+"carouselShow": true,
+"carousel": [
+{
+"img": "https://www.ole.com.ar/images/2025/02/11/xLc-WmGCx_1290x760__1.jpg",
+"title": "Liga Pro Ecuador",
+"url": "https://la14hd.com/vivo/canales.php?stream=espn",
+"icon": "icon_tvhd",
+"actividad": "DaxexoActivity",
+"visible": true
+},
+{
+"img": "https://cdn.conmebol.com/wp-content/uploads/2024/11/Logo-CONMEBOL-Libertadores-Full-Color-Fondo-Oscuros-768x432.jpg",
+"title": "Copa Libertadores",
+"url": "#",
+"icon": "icon_trophy_gold",
+"actividad": "DaxexoActivity",
+"visible": true
+},
+{
+"img": "https://img.somosxbox.com/somosxbox/2023/04/23023457/LaLiga.jpg",
+"title": "Copa Sudamericana",
+"url": "#",
+"icon": "icon_broadcast_tower_red",
+"actividad": "DaxexostreamActivity",
+"visible": true
+}
+],
 "cards": [
 {
 "label": "TV EN VIVO",
-"href": "go:channel",
-"image": "https://i.imgur.com/pYTreyZ.png",
-"show": true
+"icon": "icon_tvhd",
+"actividad": "TvhdActivity",
+"visible": true
+},
+{
+"label": "CANALES DEPORTIVOS",
+"icon": "icon_tvhd",
+"actividad": "TvhdActivity",
+"visible": true
 },
 {
 "label": "EVENTOS DAX",
-"href": "go:daxeventos",
-"image": "https://i.imgur.com/zZACFZn.png",
-"show": true
+"icon": "icon_soccer",
+"actividad": "LarojaActivity",
+"visible": true
 },
 {
 "label": "EVENTOS DEPORTIVOS 1",
-"href": "go:eventos1",
-"image": "https://i.imgur.com/74aek1R.png",
-"show": true
+"icon": "icon_agenda_sports",
+"actividad": "EventosActivity",
+"visible": true
 },
 {
 "label": "EVENTOS DEPORTIVOS 2",
-"href": "go:eventos2",
-"image": "https://i.imgur.com/74aek1R.png",
-"show": true
-},
-{
-"label": "ANIMES",
-"href": "go:animes",
-"image": "",
-"show": false
+"icon": "icon_agenda_sports",
+"actividad": "Eventos2Activity",
+"visible": false
 },
 {
 "label": "PELÍCULAS",
-"href": "go:movies",
-"image": "https://i.imgur.com/cpBLKTi.png",
-"show": false
+"icon": "icon_film",
+"actividad": "MoviesActivity",
+"visible": false
 },
 {
 "label": "SERIES",
-"href": "go:series",
-"image": "https://i.imgur.com/guV3lzj.png",
-"show": false
+"icon": "icon_series",
+"actividad": "SeriesActivity",
+"visible": false
 },
 {
 "label": "TABLA DE POSICIONES",
-"href": "go:movies",
-"image": "https://i.imgur.com/wYLvVcM.png",
-"show": false
+"icon": "icon_ranking_star",
+"actividad": "TablaposiActivity",
+"visible": false
 },
 {
 "label": "AVISO LEGAL",
-"href": "go:movies",
-"image": "https://i.imgur.com/97cBY14.png",
-"show": false
+"icon": "icon_gavel",
+"actividad": "LegalActivity",
+"visible": false
 }
 ]
 }
