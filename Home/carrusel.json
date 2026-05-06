@@ -1,0 +1,29 @@
+{
+  "carouselShow": true,
+  "carousel": [
+    {
+      "img": "https://www.ole.com.ar/images/2025/02/11/xLc-WmGCx_1290x760__1.jpg",
+      "title": "Liga Pro Ecuador",
+      "url": "https://la14hd.com/vivo/canales.php?stream=espn",
+      "icon": "icon_tvhd",
+      "actividad": "DaxexoActivity",
+      "visible": true
+    },
+    {
+      "img": "https://cdn.conmebol.com/wp-content/uploads/2024/11/Logo-CONMEBOL-Libertadores-Full-Color-Fondo-Oscuros-768x432.jpg",
+      "title": "Copa Libertadores",
+      "url": "#",
+      "icon": "icon_trophy_gold",
+      "actividad": "DaxexoActivity",
+      "visible": true
+    },
+    {
+      "img": "https://img.somosxbox.com/somosxbox/2023/04/23023457/LaLiga.jpg",
+      "title": "Copa Sudamericana",
+      "url": "#",
+      "icon": "icon_broadcast_tower_red",
+      "actividad": "DaxexostreamActivity",
+      "visible": true
+    }
+  ]
+}
