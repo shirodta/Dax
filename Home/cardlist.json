@@ -3,14 +3,14 @@
     {
       "label": "TV EN VIVO",
       "icon": "icon_tvhd",
-      "actividad": "TvhdActivity",
+      "actividad": "MagmatvActivity",
       "visible": true
     },
     {
       "label": "CANALES DEPORTIVOS",
       "icon": "icon_tvhd",
       "actividad": "TvhdActivity",
-      "visible": true
+      "visible": false
     },
     {
       "label": "EVENTOS DAX",
@@ -22,7 +22,7 @@
       "label": "EVENTOS DEPORTIVOS 1",
       "icon": "icon_agenda_sports",
       "actividad": "EventosActivity",
-      "visible": true
+      "visible": false
     },
     {
       "label": "EVENTOS DEPORTIVOS 2",
