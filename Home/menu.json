@@ -7,9 +7,9 @@
 "visible": true
 },
 {
-"titulo": "TV",
+"titulo": "TV EN VIVO",
 "icono": "icon_tvhd",
-"actividad": "TvhdActivity",
+"actividad": "MagmatvActivity",
 "visible": true
 },
 {
