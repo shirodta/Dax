@@ -16,7 +16,7 @@
 "titulo": "Prueba",
 "icono": "icon_tvhd",
 "actividad": "PruebaActivity",
-"visible": true
+"visible": false
 },
 {
 "titulo": "Eventos Dax",
