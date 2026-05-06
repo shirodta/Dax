@@ -1,29 +1,29 @@
 {
-  "carouselShow": true,
-  "carousel": [
-    {
-      "img": "https://www.ole.com.ar/images/2025/02/11/xLc-WmGCx_1290x760__1.jpg",
-      "title": "Liga Pro Ecuador",
-      "url": "https://la14hd.com/vivo/canales.php?stream=espn",
-      "icon": "icon_tvhd",
-      "actividad": "DaxexoActivity",
-      "visible": true
-    },
-    {
-      "img": "https://cdn.conmebol.com/wp-content/uploads/2024/11/Logo-CONMEBOL-Libertadores-Full-Color-Fondo-Oscuros-768x432.jpg",
-      "title": "Copa Libertadores",
-      "url": "#",
-      "icon": "icon_trophy_gold",
-      "actividad": "DaxexoActivity",
-      "visible": true
-    },
-    {
-      "img": "https://img.somosxbox.com/somosxbox/2023/04/23023457/LaLiga.jpg",
-      "title": "Copa Sudamericana",
-      "url": "#",
-      "icon": "icon_broadcast_tower_red",
-      "actividad": "DaxexostreamActivity",
-      "visible": true
-    }
-  ]
+"carouselShow": true,
+"carousel": [
+{
+"img": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",
+"title": "ESPN",
+"url": "https://embed.ksdjugfsddeports.com/embed/espn.html",
+"icon": "icon_broadcast_tower_red",
+"actividad": "DaxexoActivity",
+"visible": true
+},
+{
+"img": "https://www.ecuapaginas.com/wp-content/uploads/2019/10/directv-sports.jpg",
+"title": "DIRECTV SPORTS",
+"url": "https://embed.ksdjugfsddeports.com/embed/directvsports.html",
+"icon": "icon_broadcast_tower_red",
+"actividad": "DaxexoActivity",
+"visible": true
+},
+{
+"img": "https://brandemia.org/sites/default/files/sites/default/files/nuevo_logo_axn.jpg",
+"title": "AXN",
+"url": "https://embed.ksdjugfsddeports.com/embed/axn.html",
+"icon": "icon_tvhd",
+"actividad": "DaxexostreamActivity",
+"visible": true
+}
+]
 }
