@@ -10,7 +10,7 @@
 "label": "CANALES DEPORTIVOS",
 "icon": "icon_tvhd",
 "actividad": "TvhdActivity",
-"visible": false
+"visible": true
 },
 {
 "label": "EVENTOS DAX",
