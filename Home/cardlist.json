@@ -45,7 +45,7 @@
 {
 "label": "REPRODUCTOR DE STREAM",
 "icon": "icon_play_circle",
-"actividad": "PanelcaptureurlActivity",
+"actividad": "PanelagregarstreamActivity",
 "visible": true
 },
 {
