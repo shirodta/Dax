@@ -1,0 +1,75 @@
+{
+  "version": 1,
+
+  "global_headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36"
+  },
+
+  "sites": [
+
+    {
+      "name": "DAXPLAYER",
+
+      "enabled": true,
+
+      "match": [
+        "daxplayer.alwaysdata.net"
+      ],
+
+      "headers": {
+        "Referer": "https://hoca8.com/",
+        "Origin": "https://hoca8.com"
+      },
+
+      "detect": [
+        {
+          "type": "contains",
+          "value": ".m3u8"
+        },
+        {
+          "type": "contains",
+          "value": "mpegurl"
+        },
+        {
+          "type": "contains",
+          "value": "playlist"
+        }
+      ]
+    },
+
+    {
+      "name": "XSZ",
+
+      "enabled": true,
+
+      "match": [
+        "es.xsz-av.com"
+      ],
+
+      "detect": [
+        {
+          "type": "contains",
+          "value": "v.m3u8"
+        }
+      ]
+    },
+
+    {
+      "name": "EPORNER",
+
+      "enabled": true,
+
+      "match": [
+        "eporner.com"
+      ],
+
+      "detect": [
+        {
+          "type": "regex",
+          "value": "https?:\\\\/\\\\/.*\\\\.mp4.*"
+        }
+      ]
+    }
+
+  ]
+}
