@@ -22,18 +22,27 @@
       },
 
       "detect": [
+
         {
           "type": "contains",
           "value": ".m3u8"
         },
+
         {
           "type": "contains",
           "value": "mpegurl"
         },
+
         {
           "type": "contains",
           "value": "playlist"
+        },
+
+        {
+          "type": "contains",
+          "value": ".mp4"
         }
+
       ]
     },
 
@@ -47,10 +56,12 @@
       ],
 
       "detect": [
+
         {
           "type": "contains",
           "value": "v.m3u8"
         }
+
       ]
     },
 
@@ -64,10 +75,46 @@
       ],
 
       "detect": [
+
         {
           "type": "regex",
           "value": "https?:\\\\/\\\\/.*\\\\.mp4.*"
         }
+
+      ]
+    },
+
+    {
+      "name": "DEFAULT_M3U8",
+
+      "enabled": true,
+
+      "match": [
+        ""
+      ],
+
+      "detect": [
+
+        {
+          "type": "contains",
+          "value": ".m3u8"
+        },
+
+        {
+          "type": "contains",
+          "value": "mpegurl"
+        },
+
+        {
+          "type": "contains",
+          "value": "playlist"
+        },
+
+        {
+          "type": "contains",
+          "value": ".mp4"
+        }
+
       ]
     }
 
