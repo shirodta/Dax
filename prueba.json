@@ -1,0 +1,54 @@
+[
+  {
+    "titulo": "Real Madrid vs Barcelona",
+    "hora": "21:00",
+    "logo": "https://cdn.pltvhd.com/flags/es.png",
+    "bandera": "",
+    "flag": "",
+    "img": "",
+    "imagen": "",
+    "pais_logo": "",
+    "canales": [
+      {
+        "canal_id": "101",
+        "canal": "ESPN"
+      },
+      {
+        "canal_id": "102",
+        "canal": "DAZN"
+      }
+    ]
+  },
+  {
+    "titulo": "PSG vs Bayern Munich",
+    "hora": "LIVE",
+    "logo": "https://cdn.pltvhd.com/flags/fr.png",
+    "bandera": "",
+    "flag": "",
+    "img": "",
+    "imagen": "",
+    "pais_logo": "",
+    "canales": [
+      {
+        "canal_id": "201",
+        "canal": "Fox Sports"
+      }
+    ]
+  },
+  {
+    "titulo": "Inter vs Milan",
+    "hora": "19:30",
+    "logo": "",
+    "bandera": "https://cdn.pltvhd.com/flags/it.png",
+    "flag": "",
+    "img": "",
+    "imagen": "",
+    "pais_logo": "",
+    "canales": [
+      {
+        "canal_id": "301",
+        "canal": "Movistar"
+      }
+    ]
+  }
+]
