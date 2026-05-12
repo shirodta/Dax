@@ -2,7 +2,7 @@
   {
     "titulo": "Barcelona vs Real Madrid",
     "hora": "20:00",
-    "logo": "/flags/es.png",
+    "logo": "https://cdn.ftvhd.com/uploads/espana_a8510f9b5f_9213b1e460.png",
     "canales": [
       { "canal_id": "espn1", "canal": "ESPN 1" }
     ]
@@ -10,7 +10,7 @@
   {
     "titulo": "Manchester City vs Liverpool",
     "hora": "18:30",
-    "logo": "/flags/gb.png",
+    "logo": "https://cdn.ftvhd.com/uploads/Tenis_a5d5fcd1d1_594ebf0186.png",
     "canales": [
       { "canal_id": "sky-sports", "canal": "Sky Sports" },
       { "canal_id": "bt-sports", "canal": "BT Sports" }
