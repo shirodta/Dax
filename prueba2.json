@@ -1,61 +1,32 @@
 [
   {
-    "titulo": "Barcelona vs Real Madrid",
-    "hora": "20:00",
-    "logo": "https://cdn.ftvhd.com/uploads/espana_a8510f9b5f_9213b1e460.png",
+    "league": "LaLiga",
+    "title": "Real Betis vs Elche",
+    "time": "12:00",
+    "icon": "https://example.com/icons/laliga.png",
     "canales": [
-      { "canal_id": "espn1", "canal": "ESPN 1" }
+      { "canal": "Canal Oficial 1", "url": "" },
+      { "canal": "Canal Oficial 2", "url": "" }
     ]
   },
   {
-    "titulo": "Manchester City vs Liverpool",
-    "hora": "18:30",
-    "logo": "https://cdn.ftvhd.com/uploads/Tenis_a5d5fcd1d1_594ebf0186.png",
+    "league": "Premier League",
+    "title": "Arsenal vs Chelsea",
+    "time": "14:30",
+    "icon": "https://example.com/icons/premier.png",
     "canales": [
-      { "canal_id": "sky-sports", "canal": "Sky Sports" },
-      { "canal_id": "bt-sports", "canal": "BT Sports" }
+      { "canal": "Canal Oficial 1", "url": "" },
+      { "canal": "Canal Oficial 2", "url": "" }
     ]
   },
   {
-    "titulo": "Inter de Milán vs Juventus",
-    "hora": "19:45",
-    "logo": "/flags/it.png",
+    "league": "Serie A",
+    "title": "Inter vs Milan",
+    "time": "16:00",
+    "icon": "https://example.com/icons/seriea.png",
     "canales": [
-      { "canal_id": "dazn", "canal": "DAZN" }
-    ]
-  },
-  {
-    "titulo": "Flamengo vs Palmeiras",
-    "hora": "LIVE",
-    "logo": "/flags/br.png",
-    "canales": [
-      { "canal_id": "globo", "canal": "Globo TV" },
-      { "canal_id": "premiere", "canal": "Premiere" }
-    ]
-  },
-  {
-    "titulo": "PSG vs Marseille",
-    "hora": "21:00",
-    "logo": "/flags/fr.png",
-    "canales": [
-      { "canal_id": "canal-plus", "canal": "Canal+" }
-    ]
-  },
-  {
-    "titulo": "Bayern Múnich vs Borussia Dortmund",
-    "hora": "17:30",
-    "logo": "/flags/de.png",
-    "canales": [
-      { "canal_id": "sky-de", "canal": "Sky Alemania" }
-    ]
-  },
-  {
-    "titulo": "América vs Chivas",
-    "hora": "22:00",
-    "logo": "/flags/mx.png",
-    "canales": [
-      { "canal_id": "tudn", "canal": "TUDN" },
-      { "canal_id": "vix", "canal": "ViX+" }
+      { "canal": "Canal Oficial 1", "url": "" },
+      { "canal": "Canal Oficial 2", "url": "" }
     ]
   }
 ]
