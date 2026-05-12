@@ -1,52 +1,22 @@
 {
-  "domains": [
-    {
-      "domain": "daxplayer.alwaysdata.net",
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
-      "referer": "https://hoca8.com/",
-      "origin": "https://hoca8.com"
-    },
-    {
-      "domain": "streamplay.alwaysdata.net",
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
-      "referer": "https://animefenix.tv/",
-      "origin": "https://animefenix.tv"
-    },
-    {
-      "domain": "mediahub.alwaysdata.net",
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
-      "referer": "https://cuevana3.ch/",
-      "origin": "https://cuevana3.ch"
-    },
-    {
-      "domain": "videocdn.alwaysdata.net",
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
-      "referer": "https://pelisplus.lat/",
-      "origin": "https://pelisplus.lat"
-    },
-    {
-      "domain": "faststream.alwaysdata.net",
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
-      "referer": "https://repelis24.online/",
-      "origin": "https://repelis24.online"
-    },
-    {
-      "domain": "multiplayer.alwaysdata.net",
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
-      "referer": "https://doramasflix.in/",
-      "origin": "https://doramasflix.in"
-    },
-    {
-      "domain": "cloudvideo.alwaysdata.net",
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
-      "referer": "https://veranime.top/",
-      "origin": "https://veranime.top"
-    },
-    {
-      "domain": "playmax.alwaysdata.net",
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
-      "referer": "https://seriesflix.video/",
-      "origin": "https://seriesflix.video"
-    }
-  ]
+"domains": [
+{
+"domain": "daxplayer.alwaysdata.net",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+"referer": "https://hoca8.com/",
+"origin": "https://hoca8.com"
+},
+{
+"domain": "fruteriadonpepe.x10.mx",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+"referer": "daxplayer.x10.mx/",
+"origin": "daxplayer.x10.mx"
+},
+{
+"domain": "zonalive.click",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+"referer": "https://zonalive.click/",
+"origin": "https://zonalive.click"
+}
+]
 }
