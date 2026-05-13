@@ -1,32 +1,30 @@
 [
-  {
-    "league": "LaLiga",
-    "title": "Real Betis vs Elche",
-    "time": "12:00",
-    "icon": "https://example.com/icons/laliga.png",
-    "canales": [
-      { "canal": "Canal Oficial 1", "url": "" },
-      { "canal": "Canal Oficial 2", "url": "" }
-    ]
-  },
-  {
-    "league": "Premier League",
-    "title": "Arsenal vs Chelsea",
-    "time": "14:30",
-    "icon": "https://example.com/icons/premier.png",
-    "canales": [
-      { "canal": "Canal Oficial 1", "url": "" },
-      { "canal": "Canal Oficial 2", "url": "" }
-    ]
-  },
-  {
-    "league": "Serie A",
-    "title": "Inter vs Milan",
-    "time": "16:00",
-    "icon": "https://example.com/icons/seriea.png",
-    "canales": [
-      { "canal": "Canal Oficial 1", "url": "" },
-      { "canal": "Canal Oficial 2", "url": "" }
-    ]
-  }
+{
+"league": "Ligue 1",
+"title": "Red Star vs Rodez",
+"time": "01:08",
+"icon": "https://via.placeholder.com/80",
+"canales": [
+{
+"canal": "Disney+",
+"url": "https://tvtvhd.com/canales.php?stream=disney2"
+},
+{
+"canal": "BeIN Sports Ñ",
+"url": "https://tvtvhd.com/vivo/canal.php?stream=beinsportes"
+}
+]
+},
+{
+"league": "Copa Colombia",
+"title": "Real Santander vs Boca Juniors de Cali",
+"time": "15:00",
+"icon": "https://via.placeholder.com/80",
+"canales": [
+{
+"canal": "Win Sports",
+"url": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
+}
+]
+}
 ]
