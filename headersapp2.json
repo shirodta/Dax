@@ -1,0 +1,19 @@
+{
+"profiles": [
+{
+"userAgent": "Mozilla/5.0",
+"referer": "https://streamtp-abc.net/",
+"origin": "https://streamtp-abc.net"
+},
+{
+"userAgent": "AndroidTV",
+"referer": "https://tvtvhd.com",
+"origin": "https://tvtvhd.com"
+},
+{
+"userAgent": "Mozilla/5.0",
+"referer": "https://bolaloca.my/",
+"origin": "https://bolaloca.my"
+}
+]
+}
