@@ -36,45 +36,33 @@
 "category": "Sports"
 },
 {
-"title": "ESPN 1",
-"logo": "https://cdn.jsdelivr.net/gh/shirodta/Dax/Logo-Paises/deportes_con_balones.png",
-"url": "https://daxevents.blogspot.com/p/reproeventslatan.html?url=https://streamtpnew.com/global1.php?stream=espn",
-"category": "Sports"
+"title": "Ecuavisa Guayaquil",
+"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/960px-Ecuavisa_Logo_2019.png",
+"url": "https://dai.google.com/linear/hls/pa/event/GyPkTVDZSXGhpOvxPK7m2g/stream/3f5067df-96dd-4ac1-a242-dbf80b7e1133:MRN2/variant/5184c51b1ffdf844da0e8f917256da50/bandwidth/2980972.m3u8",
+"category": "Nacionales"
 },
 {
-"title": "ESPN 2 ",
-"logo": "https://cdn.jsdelivr.net/gh/shirodta/Dax/Logo-Paises/deportes_con_balones.png",
-"url": "https://daxevents.blogspot.com/p/reproeventslatan.html?url=https://streamtpnew.com/global1.php?stream=espn2",
-"category": "Sports"
+"title": "Ecuavisa Quito",
+"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/960px-Ecuavisa_Logo_2019.png",
+"url": "https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8",
+"category": "Nacionales"
 },
 {
-"title": "ESPN 3",
-"logo": "https://cdn.jsdelivr.net/gh/shirodta/Dax/Logo-Paises/deportes_con_balones.png",
-"url": "https://daxevents.blogspot.com/p/reproeventslatan.html?url=https://streamtpnew.com/global1.php?stream=espn3",
-"category": "Sports"
+"title": "Teleamazonas Guayaquil",
+"logo": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Logoteleamazonas.png",
+"url": "https://teleamazonas-live.cdn.vustreams.com/live/b545dc57-91af-4f6b-bac7-8d9337166407/live.isml/live-video=2000000.m3u8",
+"category": "Nacionales"
 },
 {
-"title": "ESPN 4",
-"logo": "https://cdn.jsdelivr.net/gh/shirodta/Dax/Logo-Paises/deportes_con_balones.png",
-"url": "https://daxevents.blogspot.com/p/reproeventslatan.html?url=https://streamtpnew.com/global1.php?stream=espn4",
-"category": "Sports"
+"title": "Teleamazonas Quito",
+"logo": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Logoteleamazonas.png",
+"url": "https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/live-video=2000000.m3u8",
+"category": "Nacionales"
 },
 {
-"title": "ESPN 5",
-"logo": "https://cdn.jsdelivr.net/gh/shirodta/Dax/Logo-Paises/deportes_con_balones.png",
-"url": "https://daxevents.blogspot.com/p/reproeventslatan.html?url=https://streamtpnew.com/global1.php?stream=espn5",
-"category": "Sports"
-},
-{
-"title": "ESPN 6",
-"logo": "https://cdn.jsdelivr.net/gh/shirodta/Dax/Logo-Paises/deportes_con_balones.png",
-"url": "https://daxevents.blogspot.com/p/reproeventslatan.html?url=https://streamtp10.com/global1.php?stream=espn6",
-"category": "Sports"
-},
-{
-"title": "ESPN 7",
-"logo": "https://cdn.jsdelivr.net/gh/shirodta/Dax/Logo-Paises/deportes_con_balones.png",
-"url": "https://daxevents.blogspot.com/p/reproeventslatan.html?url=https://streamtpnew.com/global1.php?stream=espn7",
-"category": "Sports"
+"title": "Prueba 400",
+"logo": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Logoteleamazonas.png",
+"url": "https://daxplayer.alwaysdata.net/susen/susen.php?id=86",
+"category": "Nacionales"
 }
 ]
