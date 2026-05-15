@@ -61,8 +61,20 @@
 },
 {
 "title": "Prueba 400",
-"logo": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Logoteleamazonas.png",
+"logo": "https://cdn.jsdelivr.net/gh/shirodta/Dax/Logo-Paises/deportes_con_balones.png",
 "url": "https://daxplayer.alwaysdata.net/susen/susen.php?id=86",
+"category": "Nacionales"
+},
+{
+"title": "Prueba 401",
+"logo": "https://cdn.jsdelivr.net/gh/shirodta/Dax/Logo-Paises/deportes_con_balones.png",
+"url": "https://daxplayer.alwaysdata.net/cerote/broadcastlive2.php?id=87&mono.m3u8",
+"category": "Nacionales"
+},
+{
+"title": "Prueba 402",
+"logo": "https://cdn.jsdelivr.net/gh/shirodta/Dax/Logo-Paises/deportes_con_balones.png",
+"url": "https://daxplayer.alwaysdata.net/susen/susen.php?id=81&mono.m3u8",
 "category": "Nacionales"
 }
 ]
