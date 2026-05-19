@@ -1,11 +1,10 @@
 {
-  "hoca8": {
-    "referer": "https://hoca8.com/",
-    "origin": "https://hoca8.com"
-  },
-
-  "streamwish": {
-    "referer": "https://streamwish.to/",
-    "origin": "https://streamwish.to"
-  }
+"hoca8": {
+"referer": "https://hoca8.com/",
+"origin": "https://hoca8.com"
+},
+"streamwish": {
+"referer": "https://streamwish.to/",
+"origin": "https://streamwish.to"
+}
 }
