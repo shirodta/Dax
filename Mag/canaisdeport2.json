@@ -20,7 +20,7 @@
 {
 "title": "Prueba 4",
 "logo": "https://cdn.jsdelivr.net/gh/shirodta/Dax/Logo-Paises/deportes_con_balones.png",
-"url": "https://zonalive.click/player/2/87",
+"url": "https://zonalive.click/player/2/91",
 "category": "Sports"
 },
 {
@@ -30,9 +30,9 @@
 "category": "Sports"
 },
 {
-"title": "Prueba 6",
+"title": "Prueba 66",
 "logo": "https://cdn.jsdelivr.net/gh/shirodta/Dax/Logo-Paises/deportes_con_balones.png",
-"url": "https://hoca8.com/footy.php?player=desktop&live=ufeed86",
+"url": "https://embed.ksdjugfsddeports.com/embed/espnpremium.html",
 "category": "Sports"
 },
 {
@@ -57,24 +57,6 @@
 "title": "Teleamazonas Quito",
 "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Logoteleamazonas.png",
 "url": "https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/live-video=2000000.m3u8",
-"category": "Nacionales"
-},
-{
-"title": "Prueba 400",
-"logo": "https://cdn.jsdelivr.net/gh/shirodta/Dax/Logo-Paises/deportes_con_balones.png",
-"url": "https://daxplayer.alwaysdata.net/susen/susen.php?id=86",
-"category": "Nacionales"
-},
-{
-"title": "Prueba 401",
-"logo": "https://cdn.jsdelivr.net/gh/shirodta/Dax/Logo-Paises/deportes_con_balones.png",
-"url": "https://daxplayer.alwaysdata.net/cerote/broadcastlive2.php?id=87&mono.m3u8",
-"category": "Nacionales"
-},
-{
-"title": "Prueba 402",
-"logo": "https://cdn.jsdelivr.net/gh/shirodta/Dax/Logo-Paises/deportes_con_balones.png",
-"url": "https://daxplayer.alwaysdata.net/susen/susen.php?id=81&mono.m3u8",
 "category": "Nacionales"
 }
 ]
