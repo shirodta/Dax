@@ -1,0 +1,23 @@
+[
+{
+"league": "United Kingdom. Vitality Blast",
+"title": "Surrey Stars (W) vs Lancashire Thunder (W)",
+"time": "08:15",
+"icon": "https://cdn.livetv886.me/img/icons/cricket.gif",
+"canales": [
+{
+"canal": "Solo Eventos",
+"url": "https://cdn.livetv886.me/export/webplayer.iframe.php?t=youtube&c=FJ2mUiB_SyU&eid=382622810&lid=3017339&lang=en&m&dmn=",
+"actividad": "DashaplayerActivity"
+}
+]
+},
+{
+"league": "Ecuador. Serie A",
+"title": "Independiente vs Libertad",
+"time": "19:00",
+"icon": "https://cdn.livetv886.me/img/icons/ec.gif",
+"canales": [
+]
+}
+]
