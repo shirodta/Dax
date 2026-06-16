@@ -1,0 +1,1772 @@
+[
+{
+"title": "Telefe | Argentina",
+"id": 874,
+"image": "http:\/\/i.tvcluboficial.com\/telefe.png",
+"category": "Mas vistos"
+},
+{
+"title": "Los Simpson 24\/7",
+"id": 635,
+"image": "http:\/\/i.tvcluboficial.com\/lossimpsons.png",
+"category": "Mas vistos"
+},
+{
+"title": "Canal de las Estrellas HD",
+"id": 118,
+"image": "http:\/\/i.tvcluboficial.com\/mx_lasestrellas.png",
+"category": "Mas vistos"
+},
+{
+"title": "Cine 2025",
+"id": 1159,
+"image": "http:\/\/i.tvcluboficial.com\/cine247.png",
+"category": "Mas vistos"
+},
+{
+"title": "Rick y Morty",
+"id": 1168,
+"image": "http:\/\/i.tvcluboficial.com\/rickymorty.png",
+"category": "Mas vistos"
+},
+{
+"title": "Cine 2024",
+"id": 1099,
+"image": "http:\/\/i.tvcluboficial.com\/cine247.png",
+"category": "Mas vistos"
+},
+{
+"title": "Distrito Comedia",
+"id": 293,
+"image": "http:\/\/i.tvcluboficial.com\/distritocomedia.png",
+"category": "Mas vistos"
+},
+{
+"title": "El Trece (13) Argentina",
+"id": 362,
+"image": "http:\/\/i.tvcluboficial.com\/el13argentina.png",
+"category": "Mas vistos"
+},
+{
+"title": "El Chavo del 8 24\/7",
+"id": 344,
+"image": "http:\/\/i.tvcluboficial.com\/elchavodel8.png",
+"category": "Mas vistos"
+},
+{
+"title": "Tyc Sports",
+"id": 974,
+"image": "http:\/\/i.tvcluboficial.com\/tycsports.png",
+"category": "Mas vistos"
+},
+{
+"title": "TyC Sports HD",
+"id": 1143,
+"image": "http:\/\/i.tvcluboficial.com\/tycsports.png",
+"category": "Deportes"
+},
+{
+"title": "Dragon Ball Z 24\/7",
+"id": 307,
+"image": "http:\/\/i.tvcluboficial.com\/dragonballz.png",
+"category": "24\/7"
+},
+{
+"title": "ESPN 1 | Argentina",
+"id": 1111,
+"image": "http:\/\/i.tvcluboficial.com\/espn.png",
+"category": "Deportes"
+},
+{
+"title": "Telefe | USA",
+"id": 1166,
+"image": "http:\/\/i.tvcluboficial.com\/telefe.png",
+"category": "Entretenimiento"
+},
+{
+"title": "Two And a Half Men 24\/7",
+"id": 973,
+"image": "http:\/\/i.tvcluboficial.com\/twoandhalfmen.png",
+"category": "24\/7"
+},
+{
+"title": "Tlnovelas HD",
+"id": 915,
+"image": "http:\/\/i.tvcluboficial.com\/tlnovelas.png",
+"category": "HD"
+},
+{
+"title": "Game of Thrones 24\/7",
+"id": 484,
+"image": "http:\/\/i.tvcluboficial.com\/gameofthrones.png",
+"category": "24\/7"
+},
+{
+"title": "Bob Esponja 24\/7",
+"id": 96,
+"image": "http:\/\/i.tvcluboficial.com\/bobesponja.png",
+"category": "24\/7"
+},
+{
+"title": "Malcolm HD 24\/7",
+"id": 641,
+"image": "http:\/\/i.tvcluboficial.com\/malcolm.png",
+"category": "24\/7"
+},
+{
+"title": "Caracol | Colombia",
+"id": 126,
+"image": "http:\/\/i.tvcluboficial.com\/caracol.png",
+"category": "Nacionales"
+},
+{
+"title": "Universal HD",
+"id": 998,
+"image": "http:\/\/i.tvcluboficial.com\/universal.png",
+"category": "HD"
+},
+{
+"title": "HBO",
+"id": 512,
+"image": "http:\/\/i.tvcluboficial.com\/hbo.png",
+"category": "Peliculas"
+},
+{
+"title": "AXN HD",
+"id": 58,
+"image": "http:\/\/i.tvcluboficial.com\/axn.png",
+"category": "HD"
+},
+{
+"title": "Cartoon Network",
+"id": 128,
+"image": "http:\/\/i.tvcluboficial.com\/cartoonnetwork.png",
+"category": "Infantiles"
+},
+{
+"title": "HBO HD",
+"id": 527,
+"image": "http:\/\/i.tvcluboficial.com\/hbo.png",
+"category": "HD"
+},
+{
+"title": "Tom y Jerry 24\/7",
+"id": 940,
+"image": "http:\/\/i.tvcluboficial.com\/tomyjerry.png",
+"category": "24\/7"
+},
+{
+"title": "Tlnovelas",
+"id": 912,
+"image": "http:\/\/i.tvcluboficial.com\/tlnovelas.png",
+"category": "Entretenimiento"
+},
+{
+"title": "Cine Accion ",
+"id": 157,
+"image": "http:\/\/i.tvcluboficial.com\/cine247.png",
+"category": "Cine 24\/7"
+},
+{
+"title": "Space",
+"id": 823,
+"image": "http:\/\/i.tvcluboficial.com\/space.png",
+"category": "Peliculas"
+},
+{
+"title": "HBO Family",
+"id": 525,
+"image": "http:\/\/i.tvcluboficial.com\/hbofamily.png",
+"category": "Peliculas"
+},
+{
+"title": "HBO Xtreme",
+"id": 543,
+"image": "http:\/\/i.tvcluboficial.com\/hboxtreme.png",
+"category": "Peliculas"
+},
+{
+"title": "HBO 2",
+"id": 518,
+"image": "http:\/\/i.tvcluboficial.com\/hbo2.png",
+"category": "Peliculas"
+},
+{
+"title": "ESPN 1 | Sur",
+"id": 368,
+"image": "http:\/\/i.tvcluboficial.com\/espn.png",
+"category": "Deportes"
+},
+{
+"title": "TNT Series HD",
+"id": 933,
+"image": "http:\/\/i.tvcluboficial.com\/tntseries.png",
+"category": "HD"
+},
+{
+"title": "TNT Sports | Argentina",
+"id": 934,
+"image": "http:\/\/i.tvcluboficial.com\/tntsports.png",
+"category": "Deportes"
+},
+{
+"title": "Cine Terror",
+"id": 180,
+"image": "http:\/\/i.tvcluboficial.com\/cine247.png",
+"category": "Cine 24\/7"
+},
+{
+"title": "Cine Infantil Sagas HD",
+"id": 172,
+"image": "http:\/\/i.tvcluboficial.com\/cine247.png",
+"category": "Cine 24\/7"
+},
+{
+"title": "Discovery Turbo HD",
+"id": 275,
+"image": "http:\/\/i.tvcluboficial.com\/discoveryturbo.png",
+"category": "HD"
+},
+{
+"title": "Space HD",
+"id": 826,
+"image": "http:\/\/i.tvcluboficial.com\/space.png",
+"category": "HD"
+},
+{
+"title": "Looney Tunes 24\/7",
+"id": 618,
+"image": "http:\/\/i.tvcluboficial.com\/looneytunes.png",
+"category": "24\/7"
+},
+{
+"title": "America TV | Peru",
+"id": 35,
+"image": "http:\/\/i.tvcluboficial.com\/americaperu.png",
+"category": "Nacionales"
+},
+{
+"title": "Cinemax",
+"id": 190,
+"image": "http:\/\/i.tvcluboficial.com\/cinemax.png",
+"category": "Peliculas"
+},
+{
+"title": "TNT",
+"id": 921,
+"image": "http:\/\/i.tvcluboficial.com\/tnt.png",
+"category": "Peliculas"
+},
+{
+"title": "Universal Channel",
+"id": 984,
+"image": "http:\/\/i.tvcluboficial.com\/universal.png",
+"category": "Peliculas"
+},
+{
+"title": "Friends 24\/7",
+"id": 470,
+"image": "http:\/\/i.tvcluboficial.com\/247.png",
+"category": "24\/7"
+},
+{
+"title": "AXN",
+"id": 54,
+"image": "http:\/\/i.tvcluboficial.com\/axn.png",
+"category": "Entretenimiento"
+},
+{
+"title": "Cine Zombis",
+"id": 183,
+"image": "http:\/\/i.tvcluboficial.com\/cine247.png",
+"category": "Cine 24\/7"
+},
+{
+"title": "Chapulin Colorado 24\/7",
+"id": 152,
+"image": "http:\/\/i.tvcluboficial.com\/chapulincolorado.png",
+"category": "24\/7"
+},
+{
+"title": "ESPN 5 HD",
+"id": 1104,
+"image": "http:\/\/i.tvcluboficial.com\/espn.png",
+"category": "Deportes"
+},
+{
+"title": "Golden Edge",
+"id": 495,
+"image": "http:\/\/i.tvcluboficial.com\/goldenedge.png",
+"category": "Peliculas"
+},
+{
+"title": "ESPN Premium HD",
+"id": 408,
+"image": "http:\/\/i.tvcluboficial.com\/espnpremium.png",
+"category": "Deportes"
+},
+{
+"title": "Cine Comedia 2",
+"id": 163,
+"image": "http:\/\/i.tvcluboficial.com\/cine247.png",
+"category": "Cine 24\/7"
+},
+{
+"title": "Latina | Peru",
+"id": 765,
+"image": "http:\/\/i.tvcluboficial.com\/latinatv.png",
+"category": "Nacionales"
+},
+{
+"title": "Telemundo",
+"id": 888,
+"image": "http:\/\/i.tvcluboficial.com\/telemundo.png",
+"category": "Entretenimiento"
+},
+{
+"title": "ESPN Deportes",
+"id": 1165,
+"image": "http:\/\/i.tvcluboficial.com\/espn.png",
+"category": "Deportes"
+},
+{
+"title": "History Channel HD",
+"id": 560,
+"image": "http:\/\/i.tvcluboficial.com\/history.png",
+"category": "HD"
+},
+{
+"title": "Cine Terror HD",
+"id": 181,
+"image": "http:\/\/i.tvcluboficial.com\/cine247.png",
+"category": "Cine 24\/7"
+},
+{
+"title": "Discovery H&H",
+"id": 254,
+"image": "http:\/\/i.tvcluboficial.com\/discoveryhh.png",
+"category": "Cultura"
+},
+{
+"title": "Dragon Ball GT 24\/7",
+"id": 303,
+"image": "http:\/\/i.tvcluboficial.com\/dragonballgt.png",
+"category": "24\/7"
+},
+{
+"title": "Naruto 24\/7",
+"id": 702,
+"image": "http:\/\/i.tvcluboficial.com\/naruto.png",
+"category": "24\/7"
+},
+{
+"title": "Cinemax HD",
+"id": 196,
+"image": "http:\/\/i.tvcluboficial.com\/cinemax.png",
+"category": "HD"
+},
+{
+"title": "Liga de Campeones",
+"id": 616,
+"image": "http:\/\/i.tvcluboficial.com\/ligadecampeones.png",
+"category": "Deportes"
+},
+{
+"title": "El Gourmet",
+"id": 349,
+"image": "http:\/\/i.tvcluboficial.com\/elgourmet.png",
+"category": "Entretenimiento"
+},
+{
+"title": "Dragon Ball 24\/7",
+"id": 301,
+"image": "http:\/\/i.tvcluboficial.com\/dragonball.png",
+"category": "24\/7"
+},
+{
+"title": "TNT Series",
+"id": 929,
+"image": "http:\/\/i.tvcluboficial.com\/tntseries.png",
+"category": "Entretenimiento"
+},
+{
+"title": "History Channel",
+"id": 558,
+"image": "http:\/\/i.tvcluboficial.com\/history.png",
+"category": "Cultura"
+},
+{
+"title": "HBO 2 HD",
+"id": 520,
+"image": "http:\/\/i.tvcluboficial.com\/hbo2.png",
+"category": "HD"
+},
+{
+"title": "Pokemon 24\/7",
+"id": 773,
+"image": "http:\/\/i.tvcluboficial.com\/pokemon.png",
+"category": "24\/7"
+},
+{
+"title": "La Pantera Rosa 24\/7",
+"id": 597,
+"image": "http:\/\/i.tvcluboficial.com\/lapanterarosa.png",
+"category": "24\/7"
+},
+{
+"title": "Cine Zombis HD",
+"id": 184,
+"image": "http:\/\/i.tvcluboficial.com\/cine247.png",
+"category": "Cine 24\/7"
+},
+{
+"title": "ADN 40",
+"id": 20,
+"image": "http:\/\/i.tvcluboficial.com\/adn40.png",
+"category": "Noticias"
+},
+{
+"title": "Malcolm 24\/7",
+"id": 640,
+"image": "http:\/\/i.tvcluboficial.com\/malcolm.png",
+"category": "24\/7"
+},
+{
+"title": "Historia (ES)",
+"id": 554,
+"image": "http:\/\/i.tvcluboficial.com\/history.png",
+"category": "España"
+},
+{
+"title": "Discovery Channel HD",
+"id": 251,
+"image": "http:\/\/i.tvcluboficial.com\/discoverychannel.png",
+"category": "HD"
+},
+{
+"title": "Antena 3",
+"id": 45,
+"image": "http:\/\/i.tvcluboficial.com\/antena3.png",
+"category": "España"
+},
+{
+"title": "Disney Channel",
+"id": 280,
+"image": "http:\/\/i.tvcluboficial.com\/disneychannel.png",
+"category": "Infantiles"
+},
+{
+"title": "Cine Accion Sagas HD",
+"id": 160,
+"image": "http:\/\/i.tvcluboficial.com\/cine247.png",
+"category": "Cine 24\/7"
+},
+{
+"title": "ESPN 6 HD",
+"id": 1105,
+"image": "http:\/\/i.tvcluboficial.com\/espn.png",
+"category": "Deportes"
+},
+{
+"title": "Padre de Familia 24\/7",
+"id": 747,
+"image": "http:\/\/i.tvcluboficial.com\/padredefamilia.png",
+"category": "24\/7"
+},
+{
+"title": "Ecuavisa | Ecuador",
+"id": 338,
+"image": "http:\/\/i.tvcluboficial.com\/ecuavisa.png",
+"category": "Nacionales"
+},
+{
+"title": "HBO Xtreme HD",
+"id": 545,
+"image": "http:\/\/i.tvcluboficial.com\/hboxtreme.png",
+"category": "Peliculas"
+},
+{
+"title": "Evento",
+"id": 325,
+"image": "http:\/\/i.tvcluboficial.com\/espn.png",
+"category": "Deportes"
+},
+{
+"title": "ESPN 2 | Mexico",
+"id": 378,
+"image": "http:\/\/i.tvcluboficial.com\/espn2.png",
+"category": "Deportes"
+},
+{
+"title": "Discovery H&H HD",
+"id": 258,
+"image": "http:\/\/i.tvcluboficial.com\/discoveryhh.png",
+"category": "HD"
+},
+{
+"title": "La Sexta HD",
+"id": 603,
+"image": "http:\/\/i.tvcluboficial.com\/lasexta.png",
+"category": "España"
+},
+{
+"title": "Fox Deportes",
+"id": 1114,
+"image": "http:\/\/i.tvcluboficial.com\/foxdeportes.png",
+"category": "Deportes"
+},
+{
+"title": "Coraje el Perro Cobarde 24\/7",
+"id": 223,
+"image": "http:\/\/i.tvcluboficial.com\/coraje.png",
+"category": "24\/7"
+},
+{
+"title": "Scooby Doo 24\/7",
+"id": 804,
+"image": "http:\/\/i.tvcluboficial.com\/scoobydoo.png",
+"category": "24\/7"
+},
+{
+"title": "Azteca Uno HD",
+"id": 78,
+"image": "http:\/\/i.tvcluboficial.com\/azteca1.png",
+"category": "HD"
+},
+{
+"title": "Los Picapiedra 24\/7",
+"id": 625,
+"image": "http:\/\/i.tvcluboficial.com\/lospicapiedra.png",
+"category": "24\/7"
+},
+{
+"title": "TUDN ",
+"id": 952,
+"image": "http:\/\/i.tvcluboficial.com\/tudn.png",
+"category": "Deportes"
+},
+{
+"title": "Win Sports +",
+"id": 1041,
+"image": "http:\/\/i.tvcluboficial.com\/winsportsplus.png",
+"category": "Deportes"
+},
+{
+"title": "Yu-Gi-Oh! 24\/7",
+"id": 1052,
+"image": "http:\/\/i.tvcluboficial.com\/yugioh.png",
+"category": "24\/7"
+},
+{
+"title": "La Casa de los Dibujos 24\/7",
+"id": 590,
+"image": "http:\/\/i.tvcluboficial.com\/247.png",
+"category": "24\/7"
+},
+{
+"title": "Tooncast",
+"id": 941,
+"image": "http:\/\/i.tvcluboficial.com\/tooncast.png",
+"category": "Infantiles"
+},
+{
+"title": "Maria Vision",
+"id": 1097,
+"image": "http:\/\/i.tvcluboficial.com\/mariavision.png",
+"category": "Religion"
+},
+{
+"title": "Cine Ficcion\/Fantasia 2 HD",
+"id": 167,
+"image": "http:\/\/i.tvcluboficial.com\/cine247.png",
+"category": "Cine 24\/7"
+},
+{
+"title": "ESPN 3 | Sur",
+"id": 1127,
+"image": "http:\/\/i.tvcluboficial.com\/espn3.png",
+"category": "Deportes"
+},
+{
+"title": "Universal Premiere HD",
+"id": 1003,
+"image": "http:\/\/i.tvcluboficial.com\/universal_premier.png",
+"category": "Entretenimiento"
+},
+{
+"title": "Win Sports",
+"id": 1039,
+"image": "http:\/\/i.tvcluboficial.com\/winsports.png",
+"category": "Deportes"
+},
+{
+"title": "Discovery Theater HD",
+"id": 271,
+"image": "http:\/\/i.tvcluboficial.com\/discoverytheater.png",
+"category": "Cultura"
+},
+{
+"title": "One Punch Man 24\/7",
+"id": 744,
+"image": "http:\/\/i.tvcluboficial.com\/onepunchman.png",
+"category": "24\/7"
+},
+{
+"title": "Ranma 1\/2 24\/7",
+"id": 782,
+"image": "http:\/\/i.tvcluboficial.com\/ranma.png",
+"category": "24\/7"
+},
+{
+"title": "Chespirito 24\/7",
+"id": 153,
+"image": "http:\/\/i.tvcluboficial.com\/chespirito.jpg",
+"category": "24\/7"
+},
+{
+"title": "Los Pinguinos de Madagascar 24\/7",
+"id": 626,
+"image": "http:\/\/i.tvcluboficial.com\/lospinguinosdemadagascar.png",
+"category": "24\/7"
+},
+{
+"title": "Bandamax",
+"id": 83,
+"image": "http:\/\/i.tvcluboficial.com\/bandamax.png",
+"category": "Musica"
+},
+{
+"title": "Telemundo HD",
+"id": 889,
+"image": "http:\/\/i.tvcluboficial.com\/telemundo.png",
+"category": "HD"
+},
+{
+"title": "TNT HD",
+"id": 926,
+"image": "http:\/\/i.tvcluboficial.com\/tnt.png",
+"category": "HD"
+},
+{
+"title": "Golden",
+"id": 494,
+"image": "http:\/\/i.tvcluboficial.com\/golden.png",
+"category": "Peliculas"
+},
+{
+"title": "Smallville 24\/7",
+"id": 812,
+"image": "http:\/\/i.tvcluboficial.com\/smallville.png",
+"category": "24\/7"
+},
+{
+"title": "RCN HD | Colombia",
+"id": 1146,
+"image": "http:\/\/i.tvcluboficial.com\/rcn.png",
+"category": "Nacionales"
+},
+{
+"title": "Cine Comedia",
+"id": 161,
+"image": "http:\/\/i.tvcluboficial.com\/cine247.png",
+"category": "Cine 24\/7"
+},
+{
+"title": "ESPN 1 | Mexico",
+"id": 401,
+"image": "http:\/\/i.tvcluboficial.com\/espn.png",
+"category": "Deportes"
+},
+{
+"title": "Los Chicos del Barrio 24\/7",
+"id": 622,
+"image": "http:\/\/i.tvcluboficial.com\/247.png",
+"category": "24\/7"
+},
+{
+"title": "Las Chicas Super Poderosas 24\/7",
+"id": 608,
+"image": "http:\/\/i.tvcluboficial.com\/247.png",
+"category": "24\/7"
+},
+{
+"title": "El Gallo Claudio 24\/7",
+"id": 347,
+"image": "http:\/\/i.tvcluboficial.com\/elgalloclaudio.png",
+"category": "24\/7"
+},
+{
+"title": "Studio Universal",
+"id": 845,
+"image": "http:\/\/i.tvcluboficial.com\/studiouniversal.png",
+"category": "Peliculas"
+},
+{
+"title": "ESPN 3 HD",
+"id": 386,
+"image": "http:\/\/i.tvcluboficial.com\/espn3.png",
+"category": "HD"
+},
+{
+"title": "Sakura Card Captor 24\/7",
+"id": 800,
+"image": "http:\/\/i.tvcluboficial.com\/sakura.png",
+"category": "24\/7"
+},
+{
+"title": "Investigation Discovery",
+"id": 579,
+"image": "http:\/\/i.tvcluboficial.com\/investigationdiscovery.png",
+"category": "Cultura"
+},
+{
+"title": "Doraemon 24\/7",
+"id": 297,
+"image": "http:\/\/i.tvcluboficial.com\/doraemon.png",
+"category": "24\/7"
+},
+{
+"title": "Cine Romance HD",
+"id": 179,
+"image": "http:\/\/i.tvcluboficial.com\/cine247.png",
+"category": "Cine 24\/7"
+},
+{
+"title": "Dinosaurios 24\/7",
+"id": 244,
+"image": "http:\/\/i.tvcluboficial.com\/dinosaurios.png",
+"category": "24\/7"
+},
+{
+"title": "Cine Ficcion\/Fantasia HD",
+"id": 168,
+"image": "http:\/\/i.tvcluboficial.com\/cine247.png",
+"category": "Cine 24\/7"
+},
+{
+"title": "Warner Channel",
+"id": 1032,
+"image": "http:\/\/i.tvcluboficial.com\/warnerchannel.png",
+"category": "Entretenimiento"
+},
+{
+"title": "TUDN | Usa",
+"id": 956,
+"image": "http:\/\/i.tvcluboficial.com\/tudn.png",
+"category": "Deportes"
+},
+{
+"title": "Discovery Kids HD",
+"id": 266,
+"image": "http:\/\/i.tvcluboficial.com\/discoverykids.png",
+"category": "HD"
+},
+{
+"title": "Cine Ficcion\/Fantasia 2",
+"id": 166,
+"image": "http:\/\/i.tvcluboficial.com\/cine247.png",
+"category": "Cine 24\/7"
+},
+{
+"title": "El Principe del Rap 24\/7",
+"id": 357,
+"image": "http:\/\/i.tvcluboficial.com\/elprincipedelrap.png",
+"category": "24\/7"
+},
+{
+"title": "DAZN HD",
+"id": 1148,
+"image": "http:\/\/i.tvcluboficial.com\/dazn.png",
+"category": "Deportes"
+},
+{
+"title": "Hola TV",
+"id": 564,
+"image": "http:\/\/i.tvcluboficial.com\/hola.png",
+"category": "Entretenimiento"
+},
+{
+"title": "DSports 2 HD",
+"id": 317,
+"image": "http:\/\/i.tvcluboficial.com\/directvsports2.png",
+"category": "Deportes"
+},
+{
+"title": "A3Series",
+"id": 17,
+"image": "http:\/\/i.tvcluboficial.com\/a3series.png",
+"category": "España"
+},
+{
+"title": "Caracol Internacional",
+"id": 127,
+"image": "http:\/\/i.tvcluboficial.com\/caracol.png",
+"category": "Entretenimiento"
+},
+{
+"title": "Food Network",
+"id": 424,
+"image": "http:\/\/i.tvcluboficial.com\/foodnetwork.png",
+"category": "Entretenimiento"
+},
+{
+"title": "ESPN 3 | Mexico",
+"id": 1110,
+"image": "http:\/\/i.tvcluboficial.com\/espn3.png",
+"category": "Deportes"
+},
+{
+"title": "NBA",
+"id": 710,
+"image": "http:\/\/i.tvcluboficial.com\/nba.png",
+"category": "Deportes"
+},
+{
+"title": "HBO Mundi",
+"id": 1101,
+"image": "https:\/\/i.tvcluboficial.com\/hbomundi.png",
+"category": "Peliculas"
+},
+{
+"title": "FX",
+"id": 474,
+"image": "http:\/\/i.tvcluboficial.com\/fx.png",
+"category": "Entretenimiento"
+},
+{
+"title": "ESPN HD",
+"id": 400,
+"image": "http:\/\/i.tvcluboficial.com\/espn.png",
+"category": "HD"
+},
+{
+"title": "Tele",
+"id": 866,
+"image": "http:\/\/i.tvcluboficial.com\/play.png",
+"category": "Nacionales"
+},
+{
+"title": "Win Sports + HD",
+"id": 1042,
+"image": "http:\/\/i.tvcluboficial.com\/winsportsplus.png",
+"category": "HD"
+},
+{
+"title": "AMC HD",
+"id": 33,
+"image": "http:\/\/i.tvcluboficial.com\/amc.png",
+"category": "HD"
+},
+{
+"title": "TUDN HD | Usa",
+"id": 957,
+"image": "http:\/\/i.tvcluboficial.com\/tudn.png",
+"category": "Deportes"
+},
+{
+"title": " ATV: Novelas Turcas",
+"id": 1120,
+"image": "http:\/\/i.tvcluboficial.com\/atv.png",
+"category": "Entretenimiento"
+},
+{
+"title": "Canal 2 | El Salvador",
+"id": 1078,
+"image": "http:\/\/i.tvcluboficial.com\/sa_canal2.png",
+"category": "Nacionales"
+},
+{
+"title": "Canal 5",
+"id": 106,
+"image": "http:\/\/i.tvcluboficial.com\/canal5.png",
+"category": "Sin categoría"
+},
+{
+"title": "Canal 6 | Costa Rica",
+"id": 1084,
+"image": "http:\/\/i.tvcluboficial.com\/cr_canal6.png",
+"category": "Nacionales"
+},
+{
+"title": "Animaniacs 24\/7",
+"id": 43,
+"image": "http:\/\/i.tvcluboficial.com\/animaniacs.png",
+"category": "24\/7"
+},
+{
+"title": "Cine Ficcion\/Fantasia",
+"id": 165,
+"image": "http:\/\/i.tvcluboficial.com\/cine247.png",
+"category": "Cine 24\/7"
+},
+{
+"title": "Comedy Central",
+"id": 216,
+"image": "http:\/\/i.tvcluboficial.com\/comedycentral.png",
+"category": "Entretenimiento"
+},
+{
+"title": "Universal Crime HD",
+"id": 996,
+"image": "http:\/\/i.tvcluboficial.com\/universal_crime.png",
+"category": "Entretenimiento"
+},
+{
+"title": "UniMas",
+"id": 982,
+"image": "http:\/\/i.tvcluboficial.com\/unimas.png",
+"category": "Entretenimiento"
+},
+{
+"title": "ATV | Peru",
+"id": 1063,
+"image": "http:\/\/i.tvcluboficial.com\/pe_atv.png",
+"category": "Nacionales"
+},
+{
+"title": "Fox Sports Premium HD",
+"id": 463,
+"image": "http:\/\/i.tvcluboficial.com\/foxsportspremium.png",
+"category": "Deportes"
+},
+{
+"title": "DSports",
+"id": 312,
+"image": "http:\/\/i.tvcluboficial.com\/directvsports.png",
+"category": "Deportes"
+},
+{
+"title": "La 2 HD",
+"id": 589,
+"image": "http:\/\/i.tvcluboficial.com\/la2hd.png",
+"category": "España"
+},
+{
+"title": "SKY Sports Premier HD",
+"id": 811,
+"image": "http:\/\/i.tvcluboficial.com\/skysports.png",
+"category": "Deportes"
+},
+{
+"title": "TrollHunters 24\/7",
+"id": 945,
+"image": "http:\/\/i.tvcluboficial.com\/trollhunters.png",
+"category": "24\/7"
+},
+{
+"title": "Azteca 7 HD",
+"id": 74,
+"image": "http:\/\/i.tvcluboficial.com\/azteca7.png",
+"category": "HD"
+},
+{
+"title": "HBO Plus Oeste HD",
+"id": 536,
+"image": "http:\/\/i.tvcluboficial.com\/hboplus.png",
+"category": "HD"
+},
+{
+"title": "America TV | Peru op. 2",
+"id": 1115,
+"image": "http:\/\/i.tvcluboficial.com\/americaperu.png",
+"category": "Deportes"
+},
+{
+"title": "Formula 1 TV (F1) HD",
+"id": 427,
+"image": "http:\/\/i.tvcluboficial.com\/f1.png",
+"category": "Deportes"
+},
+{
+"title": "AXN WHITE HD (ES)",
+"id": 61,
+"image": "http:\/\/i.tvcluboficial.com\/axn.png",
+"category": "España"
+},
+{
+"title": "DSports 2",
+"id": 315,
+"image": "http:\/\/i.tvcluboficial.com\/directvsports2.png",
+"category": "Deportes"
+},
+{
+"title": "DW",
+"id": 1091,
+"image": "http:\/\/i.tvcluboficial.com\/dw.png",
+"category": "Cultura"
+},
+{
+"title": "Elementary 24\/7",
+"id": 363,
+"image": "http:\/\/i.tvcluboficial.com\/247.png",
+"category": "24\/7"
+},
+{
+"title": "Nick HD",
+"id": 728,
+"image": "http:\/\/i.tvcluboficial.com\/nick.png",
+"category": "HD"
+},
+{
+"title": "Movie Max",
+"id": 660,
+"image": "http:\/\/i.tvcluboficial.com\/moviemax.png",
+"category": "Peliculas"
+},
+{
+"title": "Starz Encore Action",
+"id": 841,
+"image": "http:\/\/i.tvcluboficial.com\/starz_encoreaction.png",
+"category": "Peliculas"
+},
+{
+"title": "TCM",
+"id": 862,
+"image": "http:\/\/i.tvcluboficial.com\/tcm.png",
+"category": "Peliculas"
+},
+{
+"title": "E!",
+"id": 333,
+"image": "http:\/\/i.tvcluboficial.com\/e.png",
+"category": "Entretenimiento"
+},
+{
+"title": "Discovery SCI",
+"id": 267,
+"image": "http:\/\/i.tvcluboficial.com\/discoverysci.png",
+"category": "Cultura"
+},
+{
+"title": "HBO Plus",
+"id": 531,
+"image": "http:\/\/i.tvcluboficial.com\/hboplus.png",
+"category": "Peliculas"
+},
+{
+"title": "Telemundo Internacional",
+"id": 1108,
+"image": "http:\/\/i.tvcluboficial.com\/telemundo.png",
+"category": "Entretenimiento"
+},
+{
+"title": "Golden HD",
+"id": 497,
+"image": "http:\/\/i.tvcluboficial.com\/golden.png",
+"category": "HD"
+},
+{
+"title": "Rugrats 24\/7",
+"id": 797,
+"image": "http:\/\/i.tvcluboficial.com\/247.png",
+"category": "24\/7"
+},
+{
+"title": "Yogui 24\/7",
+"id": 1051,
+"image": "http:\/\/i.tvcluboficial.com\/247.png",
+"category": "24\/7"
+},
+{
+"title": "Star Channel HD",
+"id": 834,
+"image": "http:\/\/i.tvcluboficial.com\/star.png",
+"category": "HD"
+},
+{
+"title": "Fox Sports Sur",
+"id": 465,
+"image": "http:\/\/i.tvcluboficial.com\/foxsports.png",
+"category": "Deportes"
+},
+{
+"title": "Rugrats Crecidos 24\/7",
+"id": 798,
+"image": "http:\/\/i.tvcluboficial.com\/247.png",
+"category": "24\/7"
+},
+{
+"title": "Los Pitufos 24\/7",
+"id": 627,
+"image": "http:\/\/i.tvcluboficial.com\/lospitufos.png",
+"category": "24\/7"
+},
+{
+"title": "Cinecanal",
+"id": 185,
+"image": "http:\/\/i.tvcluboficial.com\/cinecanal.png",
+"category": "Peliculas"
+},
+{
+"title": "Movistar Deportes 2 HD",
+"id": 664,
+"image": "http:\/\/i.tvcluboficial.com\/movistar_deportes2.png",
+"category": "Deportes"
+},
+{
+"title": "Win Sports HD",
+"id": 1044,
+"image": "http:\/\/i.tvcluboficial.com\/winsports.png",
+"category": "HD"
+},
+{
+"title": "Pinky y Cerebro 24\/7",
+"id": 771,
+"image": "http:\/\/i.tvcluboficial.com\/pinkyycerebro.png",
+"category": "24\/7"
+},
+{
+"title": "Discovery Civilization",
+"id": 252,
+"image": "http:\/\/i.tvcluboficial.com\/discoverycivilization.png",
+"category": "Cultura"
+},
+{
+"title": "Movistar Deportes HD",
+"id": 665,
+"image": "http:\/\/i.tvcluboficial.com\/movistar_deportes.png",
+"category": "Deportes"
+},
+{
+"title": "Hey Arnold 24\/7",
+"id": 551,
+"image": "http:\/\/i.tvcluboficial.com\/heyarnold.png",
+"category": "24\/7"
+},
+{
+"title": "DHE",
+"id": 242,
+"image": "http:\/\/i.tvcluboficial.com\/dhe.png",
+"category": "Peliculas"
+},
+{
+"title": "H2",
+"id": 509,
+"image": "http:\/\/i.tvcluboficial.com\/h2.png",
+"category": "Cultura"
+},
+{
+"title": "Fox (ES) HD",
+"id": 430,
+"image": "http:\/\/i.tvcluboficial.com\/fox.png",
+"category": "Entretenimiento"
+},
+{
+"title": "FX HD",
+"id": 477,
+"image": "http:\/\/i.tvcluboficial.com\/fx.png",
+"category": "HD"
+},
+{
+"title": "Star Channel",
+"id": 832,
+"image": "http:\/\/i.tvcluboficial.com\/star.png",
+"category": "Entretenimiento"
+},
+{
+"title": "Fox Sports 2 | HD",
+"id": 439,
+"image": "http:\/\/i.tvcluboficial.com\/foxsports2.png",
+"category": "HD"
+},
+{
+"title": "Azteca 7",
+"id": 72,
+"image": "http:\/\/i.tvcluboficial.com\/azteca7.png",
+"category": "Sin categoría"
+},
+{
+"title": "Guatevision",
+"id": 1089,
+"image": "http:\/\/i.tvcluboficial.com\/guatevision.png",
+"category": "Nacionales"
+},
+{
+"title": "FS1 USA HD",
+"id": 471,
+"image": "http:\/\/i.tvcluboficial.com\/fs1.png",
+"category": "USA"
+},
+{
+"title": "Canal+ Toros",
+"id": 121,
+"image": "http:\/\/i.tvcluboficial.com\/toros.png",
+"category": "Deportes"
+},
+{
+"title": "Sky Sports LaLiga",
+"id": 1079,
+"image": "http:\/\/i.tvcluboficial.com\/skysports.png",
+"category": "Deportes"
+},
+{
+"title": "AMC",
+"id": 29,
+"image": "http:\/\/i.tvcluboficial.com\/amc.png",
+"category": "Entretenimiento"
+},
+{
+"title": "Cine Latino",
+"id": 173,
+"image": "http:\/\/i.tvcluboficial.com\/cinelatino.png",
+"category": "Peliculas"
+},
+{
+"title": "NBC Universo",
+"id": 714,
+"image": "http:\/\/i.tvcluboficial.com\/nbcuniverso.png",
+"category": "USA"
+},
+{
+"title": "Sky Sports Bundesliga",
+"id": 1124,
+"image": "http:\/\/i.tvcluboficial.com\/skysports.png",
+"category": "Deportes"
+},
+{
+"title": "Canal 2 | Nicaragua",
+"id": 1075,
+"image": "http:\/\/i.tvcluboficial.com\/ni_canal2.png",
+"category": "Nacionales"
+},
+{
+"title": "Fox Sports 2 | Mexico",
+"id": 441,
+"image": "http:\/\/i.tvcluboficial.com\/foxsports2.png",
+"category": "Deportes"
+},
+{
+"title": "Universal Comedy HD",
+"id": 992,
+"image": "http:\/\/i.tvcluboficial.com\/universal_comedy.png",
+"category": "Entretenimiento"
+},
+{
+"title": "Las Aventuras de Tom Sawyer 24\/7",
+"id": 607,
+"image": "http:\/\/i.tvcluboficial.com\/247.png",
+"category": "24\/7"
+},
+{
+"title": "Starz Cinema",
+"id": 839,
+"image": "http:\/\/i.tvcluboficial.com\/starz_cinema.png",
+"category": "Peliculas"
+},
+{
+"title": "Nat Geo Wild",
+"id": 709,
+"image": "http:\/\/i.tvcluboficial.com\/natgeowild.png",
+"category": "Cultura"
+},
+{
+"title": "ESPN Plus",
+"id": 404,
+"image": "http:\/\/i.tvcluboficial.com\/espnplus.png",
+"category": "Deportes"
+},
+{
+"title": "TNT Sports | Chile",
+"id": 938,
+"image": "http:\/\/i.tvcluboficial.com\/tntsports.png",
+"category": "Deportes"
+},
+{
+"title": "Nick Toons",
+"id": 735,
+"image": "http:\/\/i.tvcluboficial.com\/nicktoons.png",
+"category": "Infantiles"
+},
+{
+"title": "Fox Sports 1 | Sur",
+"id": 435,
+"image": "http:\/\/i.tvcluboficial.com\/foxsportssur.png",
+"category": "Deportes"
+},
+{
+"title": "Movistar Comedia",
+"id": 663,
+"image": "http:\/\/i.tvcluboficial.com\/movistar_comedia.png",
+"category": "España"
+},
+{
+"title": "Gol TV | España",
+"id": 1125,
+"image": "http:\/\/i.tvcluboficial.com\/goltv.png",
+"category": "Deportes"
+},
+{
+"title": "TruTV",
+"id": 949,
+"image": "http:\/\/i.tvcluboficial.com\/trutv.png",
+"category": "Entretenimiento"
+},
+{
+"title": "Golf Channel HD",
+"id": 504,
+"image": "http:\/\/i.tvcluboficial.com\/golfchannel.png",
+"category": "Deportes"
+},
+{
+"title": "Movistar LaLiga HD",
+"id": 668,
+"image": "http:\/\/i.tvcluboficial.com\/movistar_laliga.png",
+"category": "HD"
+},
+{
+"title": "Movistar LaLiga",
+"id": 1100,
+"image": "http:\/\/i.tvcluboficial.com\/movistar_laliga.png",
+"category": "Deportes"
+},
+{
+"title": "A3Cine",
+"id": 14,
+"image": "http:\/\/i.tvcluboficial.com\/a3cine.png",
+"category": "España"
+},
+{
+"title": "ESPN 7 HD",
+"id": 1106,
+"image": "http:\/\/i.tvcluboficial.com\/espn.png",
+"category": "Deportes"
+},
+{
+"title": "DAZN 2",
+"id": 1126,
+"image": "http:\/\/i.tvcluboficial.com\/dazn.png",
+"category": "Deportes"
+},
+{
+"title": "De Pelicula Plus HD",
+"id": 239,
+"image": "http:\/\/i.tvcluboficial.com\/dpeliculaplus.png",
+"category": "HD"
+},
+{
+"title": "ESPN 1 | Mexico Centro",
+"id": 1112,
+"image": "http:\/\/i.tvcluboficial.com\/espn.png",
+"category": "Deportes"
+},
+{
+"title": "Discovery World",
+"id": 276,
+"image": "http:\/\/i.tvcluboficial.com\/discoveryworld.png",
+"category": "Cultura"
+},
+{
+"title": "Enlace",
+"id": 1092,
+"image": "http:\/\/i.tvcluboficial.com\/enlace.png",
+"category": "Religion"
+},
+{
+"title": "Kenan y Kel",
+"id": 1169,
+"image": "http:\/\/i.tvcluboficial.com\/kenanykel.png",
+"category": "24\/7"
+},
+{
+"title": "Teletica (Canal 7) | Costa Rica",
+"id": 1073,
+"image": "http:\/\/i.tvcluboficial.com\/cr_teletica.png",
+"category": "Nacionales"
+},
+{
+"title": "Nosotros los Guapos 24\/7",
+"id": 739,
+"image": "http:\/\/i.tvcluboficial.com\/247.png",
+"category": "24\/7"
+},
+{
+"title": "MTV Live",
+"id": 683,
+"image": "http:\/\/i.tvcluboficial.com\/mtvlive.png",
+"category": "Musica"
+},
+{
+"title": "BeinSports",
+"id": 88,
+"image": "http:\/\/i.tvcluboficial.com\/beinsports.png",
+"category": "Deportes"
+},
+{
+"title": "RPC Panama",
+"id": 1158,
+"image": "http:\/\/i.tvcluboficial.com\/pa_rpc.png",
+"category": "Nacionales"
+},
+{
+"title": "Film & Arts HD (EN)",
+"id": 420,
+"image": "http:\/\/i.tvcluboficial.com\/filmarts.png",
+"category": "HD"
+},
+{
+"title": "Studio Universal HD",
+"id": 848,
+"image": "http:\/\/i.tvcluboficial.com\/studiouniversal.png",
+"category": "HD"
+},
+{
+"title": "HTV",
+"id": 568,
+"image": "http:\/\/i.tvcluboficial.com\/htv.png",
+"category": "Musica"
+},
+{
+"title": "ESPN 4 | Sur",
+"id": 1069,
+"image": "http:\/\/i.tvcluboficial.com\/espn4.png",
+"category": "Entretenimiento"
+},
+{
+"title": "CDF Premium HD",
+"id": 143,
+"image": "http:\/\/i.tvcluboficial.com\/cdfpremium.png",
+"category": "HD"
+},
+{
+"title": "Estrella TV",
+"id": 409,
+"image": "http:\/\/i.tvcluboficial.com\/estrellatv.png",
+"category": "Entretenimiento"
+},
+{
+"title": "Trece",
+"id": 943,
+"image": "http:\/\/i.tvcluboficial.com\/trece_colombia.png",
+"category": "Nacionales"
+},
+{
+"title": "Gamavision",
+"id": 483,
+"image": "http:\/\/i.tvcluboficial.com\/gamavision.png",
+"category": "Nacionales"
+},
+{
+"title": "NHL Network",
+"id": 723,
+"image": "http:\/\/i.tvcluboficial.com\/nhl.png",
+"category": "USA"
+},
+{
+"title": "Caso Cerrado 24\/7",
+"id": 138,
+"image": "http:\/\/i.tvcluboficial.com\/casocerrado.png",
+"category": "24\/7"
+},
+{
+"title": "Universal Cinema HD",
+"id": 988,
+"image": "http:\/\/i.tvcluboficial.com\/universal_cinema.png",
+"category": "Entretenimiento"
+},
+{
+"title": "Movistar Deportes | Peru",
+"id": 666,
+"image": "http:\/\/i.tvcluboficial.com\/movistar_deportes.png",
+"category": "Deportes"
+},
+{
+"title": "E! HD",
+"id": 336,
+"image": "http:\/\/i.tvcluboficial.com\/e.png",
+"category": "HD"
+},
+{
+"title": "Nat Geo HD",
+"id": 706,
+"image": "http:\/\/i.tvcluboficial.com\/natgeo.png",
+"category": "HD"
+},
+{
+"title": "Paramount HD",
+"id": 753,
+"image": "http:\/\/i.tvcluboficial.com\/paramount.png",
+"category": "HD"
+},
+{
+"title": "Samurai X 24\/7",
+"id": 802,
+"image": "http:\/\/i.tvcluboficial.com\/samuraix.png",
+"category": "24\/7"
+},
+{
+"title": "DSports HD",
+"id": 324,
+"image": "http:\/\/i.tvcluboficial.com\/directvsports.png",
+"category": "Deportes"
+},
+{
+"title": "Starz Encore Family",
+"id": 843,
+"image": "http:\/\/i.tvcluboficial.com\/starz_encorefamily.png",
+"category": "Peliculas"
+},
+{
+"title": "Movistar Cine Ñ",
+"id": 662,
+"image": "http:\/\/i.tvcluboficial.com\/movistar_comedia.png",
+"category": "España"
+},
+{
+"title": "Peppa Pig 24\/7",
+"id": 760,
+"image": "http:\/\/i.tvcluboficial.com\/peppapig.png",
+"category": "24\/7"
+},
+{
+"title": "Canal 5 HD",
+"id": 108,
+"image": "http:\/\/i.tvcluboficial.com\/canal5.png",
+"category": "HD"
+},
+{
+"title": "ESPN HD | Colombia",
+"id": 1161,
+"image": "http:\/\/i.tvcluboficial.com\/espn.png",
+"category": "Entretenimiento"
+},
+{
+"title": "Doug 24\/7",
+"id": 298,
+"image": "http:\/\/i.tvcluboficial.com\/247.png",
+"category": "24\/7"
+},
+{
+"title": "Claro Sports",
+"id": 201,
+"image": "http:\/\/i.tvcluboficial.com\/clarosports.png",
+"category": "Deportes"
+},
+{
+"title": "Canal Uno (1) | Colombia",
+"id": 1014,
+"image": "http:\/\/i.tvcluboficial.com\/co_uno.png",
+"category": "Nacionales"
+},
+{
+"title": "DSports HD op. 2",
+"id": 1144,
+"image": "http:\/\/i.tvcluboficial.com\/directvsports.png",
+"category": "Deportes"
+},
+{
+"title": "Discovery Turbo",
+"id": 274,
+"image": "http:\/\/i.tvcluboficial.com\/discoveryturbo.png",
+"category": "Cultura"
+},
+{
+"title": "Formula 1 TV (F1)",
+"id": 426,
+"image": "http:\/\/i.tvcluboficial.com\/f1.png",
+"category": "Sin categoría"
+},
+{
+"title": "TigoSports Paraguay",
+"id": 906,
+"image": "http:\/\/i.tvcluboficial.com\/tigosports.png",
+"category": "Deportes"
+},
+{
+"title": "DSports +",
+"id": 314,
+"image": "http:\/\/i.tvcluboficial.com\/directvplus.png",
+"category": "Deportes"
+},
+{
+"title": "Eventos 2",
+"id": 1131,
+"image": "http:\/\/i.tvcluboficial.com\/espn2.png",
+"category": "Deportes"
+},
+{
+"title": "RTS | Ecuador",
+"id": 1090,
+"image": "http:\/\/i.tvcluboficial.com\/ec_rts.png",
+"category": "Nacionales"
+},
+{
+"title": "Bandamax HD",
+"id": 84,
+"image": "http:\/\/i.tvcluboficial.com\/bandamax.png",
+"category": "HD"
+},
+{
+"title": "A+",
+"id": 9,
+"image": "http:\/\/i.tvcluboficial.com\/aplus.png",
+"category": "Sin categoría"
+},
+{
+"title": "AZ Corazon",
+"id": 66,
+"image": "http:\/\/i.tvcluboficial.com\/azcorazon.png",
+"category": "Entretenimiento"
+},
+{
+"title": "Starz HD",
+"id": 844,
+"image": "http:\/\/i.tvcluboficial.com\/starz_hd.png",
+"category": "HD"
+},
+{
+"title": "Discovery Kids",
+"id": 264,
+"image": "http:\/\/i.tvcluboficial.com\/discoverykids.png",
+"category": "Infantiles"
+},
+{
+"title": "ITV Deportes",
+"id": 1095,
+"image": "http:\/\/i.tvcluboficial.com\/itv.png",
+"category": "Entretenimiento"
+},
+{
+"title": "RCN Novelas",
+"id": 788,
+"image": "http:\/\/i.tvcluboficial.com\/rcnnovelas.png",
+"category": "Nacionales"
+},
+{
+"title": "Gol TV Ecuador",
+"id": 1060,
+"image": "http:\/\/i.tvcluboficial.com\/golperu.png",
+"category": "Deportes"
+},
+{
+"title": "Star Channel HD",
+"id": 835,
+"image": "http:\/\/i.tvcluboficial.com\/star.png",
+"category": "HD"
+},
+{
+"title": "Fox Sports Sur 2",
+"id": 467,
+"image": "http:\/\/i.tvcluboficial.com\/foxsports2.png",
+"category": "Deportes"
+},
+{
+"title": "Canal 5 Honduras",
+"id": 109,
+"image": "http:\/\/i.tvcluboficial.com\/ho_canal5.png",
+"category": "Nacionales"
+},
+{
+"title": "El Pato Darkwing 24\/7",
+"id": 356,
+"image": "http:\/\/i.tvcluboficial.com\/247.png",
+"category": "24\/7"
+},
+{
+"title": "TeleAmazonas | Ecuador",
+"id": 867,
+"image": "http:\/\/i.tvcluboficial.com\/teleamazonas.png",
+"category": "Nacionales"
+},
+{
+"title": "Canal 10 | Nicaragua",
+"id": 1076,
+"image": "http:\/\/i.tvcluboficial.com\/ni_canal10.png",
+"category": "Nacionales"
+},
+{
+"title": "Cantinflas 24\/7",
+"id": 123,
+"image": "http:\/\/i.tvcluboficial.com\/cantinflas.png",
+"category": "24\/7"
+},
+{
+"title": "Fox Sports Premium ",
+"id": 461,
+"image": "http:\/\/i.tvcluboficial.com\/foxsportspremium.png",
+"category": "Sin categoría"
+},
+{
+"title": "Vix Deportes",
+"id": 1116,
+"image": "http:\/\/i.tvcluboficial.com\/vix.png",
+"category": "Deportes"
+},
+{
+"title": "Fox Sports 2 | Sur",
+"id": 436,
+"image": "http:\/\/i.tvcluboficial.com\/foxsports2sur.png",
+"category": "Deportes"
+},
+{
+"title": "Cinecanal HD",
+"id": 188,
+"image": "http:\/\/i.tvcluboficial.com\/cinecanal.png",
+"category": "HD"
+},
+{
+"title": "Nickelodeon",
+"id": 736,
+"image": "http:\/\/i.tvcluboficial.com\/nickelodeon.png",
+"category": "Infantiles"
+},
+{
+"title": "Duelo Xiaolin 24\/7",
+"id": 330,
+"image": "http:\/\/i.tvcluboficial.com\/247.png",
+"category": "24\/7"
+},
+{
+"title": "Vix Deportes 7",
+"id": 1138,
+"image": "http:\/\/i.tvcluboficial.com\/vix.png",
+"category": "Deportes"
+},
+{
+"title": "Hercules 24\/7",
+"id": 550,
+"image": "http:\/\/i.tvcluboficial.com\/247.png",
+"category": "24\/7"
+},
+{
+"title": "Gala TV",
+"id": 481,
+"image": "http:\/\/i.tvcluboficial.com\/galatv.png",
+"category": "Sin categoría"
+},
+{
+"title": "Fox Sports 3 | Sur",
+"id": 468,
+"image": "http:\/\/i.tvcluboficial.com\/foxsports3sur.png",
+"category": "Deportes"
+},
+{
+"title": "Fox Sports 3 | Mexico",
+"id": 448,
+"image": "http:\/\/i.tvcluboficial.com\/foxsports3.png",
+"category": "Deportes"
+},
+{
+"title": "Comedy Central (ES)",
+"id": 219,
+"image": "http:\/\/i.tvcluboficial.com\/comedycentral.png",
+"category": "España"
+},
+{
+"title": "TigoSports | Costa Rica",
+"id": 1077,
+"image": "http:\/\/i.tvcluboficial.com\/tigosports.png",
+"category": "Nacionales"
+},
+{
+"title": "Foro TV",
+"id": 429,
+"image": "http:\/\/i.tvcluboficial.com\/forotv.png",
+"category": "Noticias"
+},
+{
+"title": "SyFy (ES) HD",
+"id": 856,
+"image": "http:\/\/i.tvcluboficial.com\/syfy.png",
+"category": "Peliculas"
+}
+]
